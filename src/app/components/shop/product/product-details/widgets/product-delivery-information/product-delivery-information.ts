@@ -1,0 +1,16 @@
+import { CommonModule } from '@angular/common';
+import { Component, input } from '@angular/core';
+
+import { TranslateModule } from '@ngx-translate/core';
+
+import { IProduct } from '../../../../../../shared/interface/product.interface';
+
+@Component({
+  selector: 'app-product-delivery-information',
+  imports: [CommonModule, TranslateModule],
+  templateUrl: './product-delivery-information.html',
+  styleUrl: './product-delivery-information.scss',
+})
+export class ProductDeliveryInformation {
+  readonly product = input<IProduct | null>();
+}
