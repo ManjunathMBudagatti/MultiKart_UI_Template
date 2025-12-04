@@ -1,1 +1,0 @@
-import{z as e}from"./chunk-J2HLRMD4.js";import{da as o,ia as r}from"./chunk-W4U5JHYE.js";var l=(()=>{let t=class t{constructor(){this.http=r(e),this.confirmed=!1,this.isLogin=!1}};t.\u0275fac=function(n){return new(n||t)},t.\u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"});let i=t;return i})();export{l as a};

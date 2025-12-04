@@ -7,303 +7,303 @@ export default {
   routes: undefined,
   entryPointToBrowserMapping: {
   "src/app/layout/layout.ts": [
-    "chunk-L3HUT2ZF.js",
+    "chunk-2BBLQKQE.js",
     "chunk-Z7OQXMBK.js",
-    "chunk-7M7KSVY5.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-HGZAQP6Z.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-3CIUUCLN.js",
-    "chunk-XD643QMZ.js",
+    "chunk-UQD7ECOB.js",
+    "chunk-66P6RZHU.js",
     "chunk-WW5G2KA2.js",
     "chunk-IOYD2BIT.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/page/about-us/about-us.ts": [
-    "chunk-G5UI7SC5.js",
+    "chunk-ALTUDRRX.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js"
+    "chunk-AXLQ2ZBK.js"
   ],
   "src/app/components/page/contact-us/contact-us.ts": [
-    "chunk-UY5LJ6HP.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-44YZU6NN.js"
+    "chunk-YQK7VO5V.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-IDW6ID5K.js"
   ],
   "src/app/components/page/faq/faq.ts": [
-    "chunk-LKJMORKP.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-2CETFH4J.js"
+    "chunk-DI72I6ZR.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/page/search/search.ts": [
-    "chunk-72DJDXJZ.js",
-    "chunk-7M7KSVY5.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-ODF4L2GM.js",
+    "chunk-HGZAQP6Z.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/page/offer/offer.ts": [
-    "chunk-D3HMETOU.js",
-    "chunk-LNXLIV4P.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-2CETFH4J.js"
+    "chunk-WEG7TSFU.js",
+    "chunk-MKOHOFZO.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/page/error404/error404.ts": [
-    "chunk-DNVGTB35.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-44YZU6NN.js"
+    "chunk-YSK4HBR6.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-IDW6ID5K.js"
   ],
   "src/app/components/page/page/page.ts": [
-    "chunk-JQSUAND6.js",
-    "chunk-VNWCM2JW.js"
+    "chunk-IR4NRPDL.js",
+    "chunk-AXLQ2ZBK.js"
   ],
   "src/app/components/page/page.routes.ts": [
-    "chunk-OTG2XUQ7.js"
+    "chunk-X6OG7Y3F.js"
   ],
   "src/app/components/shop/seller/seller.ts": [
-    "chunk-A6P4FVHI.js",
+    "chunk-3NLWFLMM.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js"
+    "chunk-AXLQ2ZBK.js"
   ],
   "src/app/components/shop/seller/seller-store/seller-store.ts": [
-    "chunk-YRJXIUVV.js",
-    "chunk-6FAFXQ4R.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-2CETFH4J.js"
+    "chunk-SCKUWCUA.js",
+    "chunk-4ODCN6ST.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/seller/seller-details/seller-details.ts": [
-    "chunk-6TKFPC4K.js",
-    "chunk-6FAFXQ4R.js",
-    "chunk-FVUNJTEE.js",
-    "chunk-OHH3FAFU.js",
-    "chunk-7M7KSVY5.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-IHZFPXCJ.js",
+    "chunk-4ODCN6ST.js",
+    "chunk-ZXBPCECR.js",
+    "chunk-EWSBDCRC.js",
+    "chunk-HGZAQP6Z.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/order-tracking/order-tracking.ts": [
-    "chunk-TZE6S7HQ.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-44YZU6NN.js"
+    "chunk-SXOHXFWN.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-IDW6ID5K.js"
   ],
   "src/app/components/shop/order-details/order-details.ts": [
-    "chunk-G3NANMYS.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-OXFK5P6N.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/brand/brand.ts": [
-    "chunk-LIEEAJNW.js",
-    "chunk-FVUNJTEE.js",
-    "chunk-OHH3FAFU.js",
-    "chunk-7M7KSVY5.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-ZIGT2AEU.js",
+    "chunk-ZXBPCECR.js",
+    "chunk-EWSBDCRC.js",
+    "chunk-HGZAQP6Z.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/category/category.ts": [
-    "chunk-SQ7OFNMR.js",
-    "chunk-FVUNJTEE.js",
-    "chunk-OHH3FAFU.js",
-    "chunk-7M7KSVY5.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-OP6KTLC4.js",
+    "chunk-ZXBPCECR.js",
+    "chunk-EWSBDCRC.js",
+    "chunk-HGZAQP6Z.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/shop.routes.ts": [
-    "chunk-RZ2GH4MD.js"
+    "chunk-KKYAXBVQ.js"
   ],
   "src/app/components/blog/blog-details/blog-details.ts": [
-    "chunk-RXWQ4PHH.js",
+    "chunk-ODNUN53Z.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js"
+    "chunk-AXLQ2ZBK.js"
   ],
   "src/app/components/blog/blog.routes.ts": [
-    "chunk-MYPWKSSE.js"
+    "chunk-CTJDFCYF.js"
   ],
   "src/app/components/shop/cart/cart.ts": [
-    "chunk-3UNBKOQ5.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-A6WWHJZ7.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/collection/collection.ts": [
-    "chunk-I4BTVENW.js",
-    "chunk-FVUNJTEE.js",
-    "chunk-OHH3FAFU.js",
-    "chunk-JN4CX7N2.js",
-    "chunk-7M7KSVY5.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-STWJXLQL.js",
+    "chunk-ZXBPCECR.js",
+    "chunk-EWSBDCRC.js",
+    "chunk-VOFPT2DU.js",
+    "chunk-HGZAQP6Z.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/product/product.ts": [
-    "chunk-JLLBJFOI.js",
-    "chunk-2LC4OUJU.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-JXJPZ2XT.js",
+    "chunk-SGQBKMLD.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/wishlist/wishlist.ts": [
-    "chunk-V7OBKZ4K.js",
-    "chunk-XD643QMZ.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-BU6YMIXK.js",
+    "chunk-66P6RZHU.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/compare/compare.ts": [
-    "chunk-SEZPNUVK.js",
+    "chunk-57AKNFSX.js",
     "chunk-XBF6XBDA.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/shop/checkout/checkout.ts": [
-    "chunk-SRO7YDPQ.js",
-    "chunk-LNXLIV4P.js",
-    "chunk-IR6UIASS.js",
-    "chunk-XD643QMZ.js",
-    "chunk-VNWCM2JW.js",
+    "chunk-CM7C27U3.js",
+    "chunk-MKOHOFZO.js",
+    "chunk-UTNELTIL.js",
+    "chunk-66P6RZHU.js",
+    "chunk-AXLQ2ZBK.js",
     "chunk-IOYD2BIT.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/account/point/point.ts": [
-    "chunk-7HTUQUM2.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-SDMHHT6N.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/account/orders/orders.ts": [
-    "chunk-AV2KX422.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-DWBUJSZ4.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/account/orders/details/details.ts": [
-    "chunk-BKN6TQ46.js",
-    "chunk-OHH3FAFU.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js"
+    "chunk-NOSDIA4I.js",
+    "chunk-EWSBDCRC.js",
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js"
   ],
   "src/app/components/account/downloads/downloads.ts": [
-    "chunk-6GEBEUGU.js",
-    "chunk-2CETFH4J.js"
+    "chunk-QTRQNF66.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/account/refund/refund.ts": [
-    "chunk-BHPC7J6U.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-2CETFH4J.js"
+    "chunk-M3ANVVVP.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/account/addresses/addresses.ts": [
-    "chunk-D35RIMV6.js",
-    "chunk-IR6UIASS.js",
+    "chunk-3TNYJ5JI.js",
+    "chunk-UTNELTIL.js",
     "chunk-IOYD2BIT.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-2CETFH4J.js"
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/account/account.routes.ts": [
-    "chunk-BDMBZEES.js"
+    "chunk-FBAKU6D7.js"
   ],
   "src/app/components/blog/blog.ts": [
-    "chunk-KUO7GRGA.js",
-    "chunk-MZHUVGMC.js",
+    "chunk-TSLV2QAD.js",
+    "chunk-KBVPB2UZ.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-2CETFH4J.js"
+    "chunk-AXLQ2ZBK.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/home/home.ts": [
-    "chunk-BBYOYEDK.js",
+    "chunk-ZG2ERHBH.js",
     "chunk-Z7OQXMBK.js",
-    "chunk-JN4CX7N2.js",
-    "chunk-7M7KSVY5.js",
-    "chunk-2LC4OUJU.js",
-    "chunk-LYCV7PNN.js",
+    "chunk-VOFPT2DU.js",
+    "chunk-HGZAQP6Z.js",
+    "chunk-SGQBKMLD.js",
+    "chunk-F2VGBSZG.js",
     "chunk-XBF6XBDA.js",
-    "chunk-MZHUVGMC.js",
+    "chunk-KBVPB2UZ.js",
     "chunk-Q4D2P7IK.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/home/home.routes.ts": [
-    "chunk-EYRXJJRZ.js"
+    "chunk-BNK6GLYP.js"
   ],
   "src/app/components/account/account.ts": [
-    "chunk-7PGJR3UB.js",
-    "chunk-3CIUUCLN.js",
-    "chunk-XD643QMZ.js",
-    "chunk-VNWCM2JW.js",
-    "chunk-44YZU6NN.js"
+    "chunk-TFQMTJZQ.js",
+    "chunk-UQD7ECOB.js",
+    "chunk-66P6RZHU.js",
+    "chunk-AXLQ2ZBK.js",
+    "chunk-IDW6ID5K.js"
   ],
   "src/app/components/account/dashboard/dashboard.ts": [
-    "chunk-7XB57YE3.js",
+    "chunk-BPX45TTN.js",
     "chunk-WW5G2KA2.js",
     "chunk-IOYD2BIT.js",
-    "chunk-7DW2AAL4.js",
-    "chunk-44YZU6NN.js",
-    "chunk-IR6EMLEM.js"
+    "chunk-WROZZBCR.js",
+    "chunk-IDW6ID5K.js",
+    "chunk-7IOZCZFR.js"
   ],
   "src/app/components/account/notification/notification.ts": [
-    "chunk-KMTLDD7G.js",
-    "chunk-2CETFH4J.js"
+    "chunk-33RFILH3.js",
+    "chunk-EXAYOZRS.js"
   ],
   "src/app/components/account/bank-details/bank-details.ts": [
-    "chunk-IUQQ5TB5.js",
-    "chunk-44YZU6NN.js"
+    "chunk-4MKTELM5.js",
+    "chunk-IDW6ID5K.js"
   ],
   "src/app/components/account/wallet/wallet.ts": [
-    "chunk-E7QFL6ZL.js",
-    "chunk-QKOF63AZ.js",
-    "chunk-IR6EMLEM.js",
-    "chunk-2CETFH4J.js"
+    "chunk-QSQFXOD7.js",
+    "chunk-JMJD6GQA.js",
+    "chunk-7IOZCZFR.js",
+    "chunk-EXAYOZRS.js"
   ]
 },
   assets: {
-    'index.csr.html': {size: 43470, hash: '295c7b67a057229ffe830ce39a6eb108be1b779d96df52d11b6a4d01abadfe75', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 39049, hash: 'a667e84983596fd0b23d3758b234db3def2acafcd1a6a60ebe01aa631073d9eb', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
-    'styles-BMGG4OEL.css': {size: 1134319, hash: 'YAo+mceCgk4', text: () => import('./assets-chunks/styles-BMGG4OEL_css.mjs').then(m => m.default)}
+    'index.csr.html': {size: 43470, hash: '9cef8cdf96ec77e56c816ffa25190f057c9cb15d3a3f942c07b0245b2f8fcc3c', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 39049, hash: 'e5ec6abfb1884ea4122dde279abddcbcfcf4fef7e62a24c4a5bfb565e595f0e2', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'styles-RDUFYEAF.css': {size: 1134280, hash: 'AsNuBv+eOls', text: () => import('./assets-chunks/styles-RDUFYEAF_css.mjs').then(m => m.default)}
   },
 };
