@@ -313,50 +313,51 @@
         },
         "about_us": {
             "team": {
-                "title": "Multikart Team Member",
-                "status": true,
-                "members": [
-                    {
-                        "name": "Hileri Keol",
-                        "twitter": "https://twitter.com/",
-                        "facebook": "https://www.facebook.com/",
-                        "instagram": "https://instagram.com/",
-                        "pinterest": "https://pinterest.com/",
-                        "designation": "CEo & Founder At Company",
-                        "profile_image_url": "/images/placeholder/about-us/member.png"
-                    },
-                    {
-                        "name": "Constance K. Whang",
-                        "twitter": "https://twitter.com/",
-                        "facebook": "https://www.facebook.com/",
-                        "instagram": "https://instagram.com/",
-                        "pinterest": "https://pinterest.com/",
-                        "designation": "Jr. Project Manager",
-                        "profile_image_url": "/images/placeholder/about-us/member.png"
-                    },
-                    {
-                        "name": "Betty J. Turner",
-                        "twitter": "https://twitter.com/",
-                        "facebook": "https://www.facebook.com/",
-                        "instagram": "https://instagram.com/",
-                        "pinterest": "https://pinterest.com/",
-                        "designation": "CEO, Company",
-                        "profile_image_url": "/images/placeholder/about-us/member.png"
-                    },
-                    {
-                        "name": "Alfredo S. ",
-                        "twitter": "https://twitter.com/",
-                        "facebook": "https://www.facebook.com/",
-                        "instagram": "https://instagram.com/",
-                        "pinterest": "https://pinterest.com/",
-                        "designation": "Sr. Project Manager",
-                        "profile_image_url": "/images/placeholder/about-us/member.png"
-                    }
-                ],
-                "sub_title": "Our Creative Team Multikart"
+    "title": "Meet Our Bakers",
+    "status": true,
+    "members": [
+        {
+            "name": "Hileri Keol",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://www.facebook.com/",
+            "instagram": "https://instagram.com/",
+            "pinterest": "https://pinterest.com/",
+            "designation": "Head Pastry Chef & Founder",
+            "profile_image_url": "/images/placeholder/about-us/member.png"
+        },
+        {
+            "name": "Constance K. Whang",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://www.facebook.com/",
+            "instagram": "https://instagram.com/",
+            "pinterest": "https://pinterest.com/",
+            "designation": "Senior Cake Decorator",
+            "profile_image_url": "/images/placeholder/about-us/member.png"
+        },
+        {
+            "name": "Betty J. Turner",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://www.facebook.com/",
+            "instagram": "https://instagram.com/",
+            "pinterest": "https://pinterest.com/",
+            "designation": "Artisan Bread Specialist",
+            "profile_image_url": "/images/placeholder/about-us/member.png"
+        },
+        {
+            "name": "Alfredo S.",
+            "twitter": "https://twitter.com/",
+            "facebook": "https://www.facebook.com/",
+            "instagram": "https://instagram.com/",
+            "pinterest": "https://pinterest.com/",
+            "designation": "Master Chocolatier",
+            "profile_image_url": "/images/placeholder/about-us/member.png"
+        }
+    ],
+    "sub_title": "The Artists Behind the Apron"
+
             },
             "about": {
-                "title": "Sed Ut Perspiciatis Unde Omnis Iste Natus Error Sit Voluptatem Accusantium Doloremque Laudantium",
+                "title": "Our Story: A Passion for Pastry and the Pursuit of Perfection",
                 "status": true,
                 "futures": [
                     {
@@ -375,38 +376,38 @@
                         "description": "New Online Special Festival Offer"
                     }
                 ],
-                "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,\n\nOn the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+                "description": "At our bakery, baking is more than just a daily routine—it is a vocation born from a love of simple, honest ingredients. We started with a singular mission: to bring the authentic taste of artisanal patisserie to our local neighborhood. Every day, our ovens warm up before the sun rises, filling the streets with the comforting aroma of toasted flour, melting butter, and fresh vanilla.\n\nOn the other hand, we strictly refuse to cut corners. We dislike the modern trend of mass-produced, artificial sweets that lack soul. We are so captivated by the charm of traditional techniques—like our 24-hour slow-fermented doughs and hand-laminated croissants—that we cannot imagine baking any other way. Equal praise belongs to our dedicated team who fail to compromise on quality, ensuring that every item is a masterpiece of flavor.\n\nIn our kitchen, when the timer dings and the trays emerge golden-brown, we know we have done our job right. We believe that true flavor requires patience and passion. We invite you to step inside, take a break from the busy world, and taste the difference that handmade care makes.",
                 "content_bg_image_url": "/images/placeholder/about-us/about_banner.png",
                 "content_left_image_url": null,
                 "content_right_image_url": null
             },
             "testimonial": {
-                "title": "What People Say",
+                "title": "Our Happy Customers",
                 "status": true,
                 "reviews": [
                     {
-                        "name": "Alfredo S. Rocha",
-                        "title": "Alfredo S. Rocha",
-                        "review": "\"I bought this product on a budget, and it exceeded my expectations. The quality is impressive for the price. I'm delighted with my purchase.\"",
-                        "designation": "CEO, Company",
+                        "name": "Sarah Jenkins",
+                        "title": "Sarah Jenkins",
+                        "review": "\"I ordered a custom three-tier cake for my daughter's wedding, and it was absolutely stunning. Not only did it look like a masterpiece, but the vanilla bean sponge was moist and delicious. Highly recommended!\"",
+                        "designation": "Wedding Planner",
                         "profile_image_url": "/images/placeholder/about-us/testimonial.png"
                     },
                     {
-                        "name": "Betty J. Turner",
-                        "title": "Betty J. Turner",
-                        "review": "\"I had high hopes for this product, but it fell short of my expectations. It constantly crashes and lacks essential features. I wouldn't recommend it.\"",
-                        "designation": "Sr. Project Manager",
+                        "name": "Michael Ross",
+                        "title": "Michael Ross",
+                        "review": "\"This bakery has arguably the best almond croissants in the city. The layers are perfectly flaky, and the filling is rich without being overly sweet. It has become my mandatory Sunday morning ritual.\"",
+                        "designation": "Food Blogger",
                         "profile_image_url": "/images/placeholder/about-us/testimonial.png"
                     },
                     {
-                        "name": "Gwen J. Geiger",
-                        "title": "Gwen J. Geiger",
-                        "review": "\"I encountered a minor issue with my purchase, and the customer service team was quick to resolve it. Their prompt and friendly support made me a happy customer!\"",
-                        "designation": "Designer",
+                        "name": "Emily Chen",
+                        "title": "Emily Chen",
+                        "review": "\"I needed a last-minute dessert box for a corporate client, and the team went above and beyond to help me curate a beautiful selection of macarons and tarts. The presentation was impeccable.\"",
+                        "designation": "Office Manager",
                         "profile_image_url": "/images/placeholder/about-us/testimonial.png"
                     }
                 ],
-                "sub_title": "Latest Testimonials"
+                "sub_title": "Sharing the Love"
             }
         },
         "collection": {
