@@ -1,0 +1,37 @@
+name: Deploy Angular App Locally to IIS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v3
+
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install Angular dependencies
+        run: npm install
+
+      - name: Build Angular App
+        run: npm run build --prod
+
+      - name: Remove old IIS files
+        run: |
+          rmdir /S /Q "C:\\inetpub\\wwwroot\\honore-frontend"
+          mkdir "C:\\inetpub\\wwwroot\\honore-frontend"
+
+      - name: Deploy dist to IIS
+        run: |
+          xcopy ".\\dist\\multikart-frontend\\browser\\*" "C:\\inetpub\\wwwroot\\honore-frontend" /E /H /C /I /Y
+
+      - name: Restart IIS
+        run: iisreset
