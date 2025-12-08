@@ -7,8 +7,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1013. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1013. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-24T09:00:17.000000Z",
@@ -21,8 +21,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Refund request updated!",
-                "message": "Your Refund request status has been rejected",
+                "title": "Refund request update!",
+                "message": "Your refund request has been reviewed, but we couldn’t approve it this time. Our bakery team is here for you if you need help.",
                 "type": "refund"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -35,8 +35,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1012. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1012. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -49,8 +49,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1011. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1011. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -63,8 +63,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1010. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1010. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -77,8 +77,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1009. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1009. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -91,8 +91,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1008 has been updated and current order status is in delivered. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1008 has been freshly delivered to you. Enjoy your treats!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -105,8 +105,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1008 has been updated and current order status is in pending. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1008 is waiting in the dough queue. Thanks for your patience!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -119,8 +119,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1007 has been updated and current order status is in delivered. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1007 has been freshly delivered to you. Enjoy your baked goodies!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -133,8 +133,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1006. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1006. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -147,8 +147,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1005. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1005. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-22T05:53:53.000000Z",
@@ -161,8 +161,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1000 has been updated and current order status is in delivered. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1000 has been freshly delivered to you. Enjoy your treats!",
                 "type": "order"
             },
             "read_at": "2025-06-21T10:11:12.000000Z",
@@ -175,8 +175,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1003 has been updated and current order status is in cancelled. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1003 has been cancelled. We're here if you need anything.",
                 "type": "order"
             },
             "read_at": "2025-06-21T10:11:12.000000Z",
@@ -189,8 +189,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1004 has been updated and current order status is in delivered. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1004 has been freshly delivered to you. Enjoy your baked treats!",
                 "type": "order"
             },
             "read_at": "2025-06-21T10:11:12.000000Z",
@@ -203,8 +203,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1004 has been updated and current order status is in out_for_delivery. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1004 is out for delivery with our pastry courier. It will reach you soon!",
                 "type": "order"
             },
             "read_at": "2025-06-21T10:11:12.000000Z",
@@ -217,8 +217,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1004 has been updated and current order status is in shipped. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1004 is on the way from our oven. Get ready for something delicious!",
                 "type": "order"
             },
             "read_at": "2025-06-21T10:11:12.000000Z",
@@ -231,8 +231,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order status updated!",
-                "message": "Order Update: Your order #1004 has been updated and current order status is in processing. Thank you for your patience!",
+                "title": "Your bakery order just got an update!",
+                "message": "Order Update: Your bakery order #1004 is mixing ingredients. Our bakers are preparing it with care!",
                 "type": "order"
             },
             "read_at": "2025-06-21T10:11:12.000000Z",
@@ -245,8 +245,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1004. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1004. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-21T09:46:30.000000Z",
@@ -259,8 +259,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1003. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1003. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-21T09:46:30.000000Z",
@@ -273,8 +273,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1002. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1002. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-21T09:46:30.000000Z",
@@ -287,8 +287,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1001. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1001. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-21T09:33:46.000000Z",
@@ -301,8 +301,8 @@
             "notifiable_type": "App\\Models\\User",
             "notifiable_id": "2",
             "data": {
-                "title": "Order has been placed",
-                "message": "Your order has been successfully placed. Order ID: #1000. Thank you for choosing us.",
+                "title": "Your fresh bakery order is in the oven!",
+                "message": "Your bakery order has been received and is now being prepared with love. Order ID: #1000. Thanks for choosing our bakery!",
                 "type": "order"
             },
             "read_at": "2025-06-21T09:33:46.000000Z",
@@ -317,7 +317,7 @@
     "links": [
         {
             "url": null,
-            "label": "&laquo; Previous",
+            "label": "« Previous",
             "active": false
         },
         {
@@ -327,7 +327,7 @@
         },
         {
             "url": null,
-            "label": "Next &raquo;",
+            "label": "Next »",
             "active": false
         }
     ],

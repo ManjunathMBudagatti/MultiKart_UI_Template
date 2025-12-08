@@ -5,17 +5,21 @@
   "projects": {
     "multikart-frontend": {
       "projectType": "application",
+
       "schematics": {
         "@schematics/angular:component": {
           "style": "scss"
         }
       },
+
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
+
       "architect": {
         "build": {
           "builder": "@angular/build:application",
+
           "options": {
             "outputPath": "dist/multikart-frontend",
             "index": "src/index.html",
@@ -23,40 +27,33 @@
             "polyfills": ["zone.js"],
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
+
             "assets": [
               {
                 "glob": "**/*",
                 "input": "public"
               }
             ],
+
             "styles": ["src/styles.scss"],
             "scripts": [],
-            "server": "src/main.server.ts",
-            "prerender": false,
-            "ssr": {
-              "entry": "server.ts"
-            }
+
+            /** IMPORTANT — SSR DISABLED */
+            "prerender": false
           },
+
           "configurations": {
             "production": {
-              "budgets": [
-                {
-                  "type": "initial",
-                  "maximumWarning": "5mb",
-                  "maximumError": "5mb"
-                },
-                {
-                  "type": "anyComponentStyle",
-                  "maximumWarning": "5mb",
-                  "maximumError": "5mb"
-                }
-              ],
-              "outputHashing": "all"
+              "outputHashing": "all",
+              "optimization": true,
+              "extractLicenses": true,
+              "sourceMap": false
             },
+
             "development": {
               "optimization": false,
-              "extractLicenses": false,
               "sourceMap": true,
+              "extractLicenses": false,
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
@@ -65,8 +62,10 @@
               ]
             }
           },
+
           "defaultConfiguration": "production"
         },
+
         "serve": {
           "builder": "@angular/build:dev-server",
           "configurations": {
@@ -79,21 +78,25 @@
           },
           "defaultConfiguration": "development"
         },
+
         "extract-i18n": {
           "builder": "@angular/build:extract-i18n"
         },
+
         "test": {
           "builder": "@angular/build:karma",
           "options": {
             "polyfills": ["zone.js", "zone.js/testing"],
             "tsConfig": "tsconfig.spec.json",
             "inlineStyleLanguage": "scss",
+
             "assets": [
               {
                 "glob": "**/*",
                 "input": "public"
               }
             ],
+
             "styles": ["src/styles.scss"],
             "scripts": []
           }
@@ -101,6 +104,7 @@
       }
     }
   },
+
   "cli": {
     "analytics": false
   }

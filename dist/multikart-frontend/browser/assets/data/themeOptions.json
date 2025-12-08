@@ -2,12 +2,12 @@
     "id": 1,
     "options": {
         "seo": {
-            "og_title": "MultiKart Marketplace: Uniting Vendors for Shopping Excellence",
-            "meta_tags": "Multikart Marketplace: Where Vendors Shine Together",
-            "meta_title": "Online Marketplace, Vendor Collaboration, E-commerce Platform",
+            "og_title": "Honore Bakery: Artisan Pastries & Custom Cakes",
+            "meta_tags": "Honore Bakery, Artisan Breads, Wedding Cakes, Pastries",
+            "meta_title": "Honore Bakery - Freshly Baked Everyday",
             "og_image_id": 107,
-            "og_description": "Experience a unique shopping journey at MultiKart Marketplace, where vendors collaborate to provide a vast array of products. Explore, shop, and connection in one convenient destination.",
-            "meta_description": "Discover MultiKart Marketplace – a vibrant online platform where vendors unite to showcase their products, creating a diverse shopping experience. Explore a wide range of offerings and connect with sellers on a single platform.",
+            "og_description": "Experience the joy of real baking at Honore Bakery. From flaky croissants to custom wedding cakes, we craft everything with love.",
+            "meta_description": "Discover Honore Bakery – your local destination for handmade pastries, artisan breads, and custom cakes.",
             "og_image": {
                 "id": 107,
                 "name": "fashion_two_1",
@@ -80,11 +80,11 @@
                 "is_enable": true
             },
             "news_letter": {
-                "offer": "80% off",
+                "offer": "10% off",
                 "title": "NEWSLETTER",
                 "image_url": "/images/placeholder/auth.png",
                 "is_enable": true,
-                "description": "plus, early access to new arrivals, exclusive sales, & lots more?"
+                "description": "Join our family! Get early access to new menu items, holiday specials, and exclusive tasting events."
             }
         },
         "footer": {
@@ -95,7 +95,7 @@
             "facebook": "https://facebook.com/",
             "instagram": "https://instagram.com/",
             "pinterest": "https://pinterest.com/",
-            "sub_title": "Never Miss Anything From Store By Signing Up To Our Newsletter.",
+            "sub_title": "Never Miss a Fresh Batch! Sign Up To Our Newsletter.",
             "about_email": "support@honore.in",
             "help_center": [
                 {
@@ -132,7 +132,7 @@
                 },
                 {
                     "id": 2,
-                    "name": "Shopping",
+                    "name": "Menu",
                     "value": "Shopping"
                 },
                 {
@@ -142,7 +142,7 @@
                 },
                 {
                     "id": 4,
-                    "name": "Blogs",
+                    "name": "Our Blog",
                     "value": "blogs"
                 },
                 {
@@ -157,14 +157,14 @@
                 }
             ],
             "footer_about": "Discover the joy of fresh baking. Indulge in our exclusive collection of handmade cakes, fluffy muffins, and artisanal pastries, all crafted with love.",
-      "footer_style": "footer_three",
-      "about_address": "125, 3rd floor, 7th Cross Rd, Dollar Layout, BTM 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
-      "app_store_url": "https://www.apple.com/in/app-store/",
-      "support_email": "orders@honorebakery.com",
-      "play_store_url": "https://play.google.com/store/apps",
-      "support_number": "+91 888-422-2250",
-      "footer_copyright": true,
-      "copyright_content": "© 2025 Honore Bakery. All Rights Reserved.",
+            "footer_style": "footer_three",
+            "about_address": "125, 3rd floor, 7th Cross Rd, Dollar Layout, BTM 2nd Stage, BTM Layout, Bengaluru, Karnataka 560076",
+            "app_store_url": "https://www.apple.com/in/app-store/",
+            "support_email": "orders@honorebakery.com",
+            "play_store_url": "https://play.google.com/store/apps",
+            "support_number": "+91 888-422-2250",
+            "footer_copyright": true,
+            "copyright_content": "© 2025 Honore Bakery. All Rights Reserved.",
             "footer_categories": [
                 74,
                 41,
@@ -188,13 +188,13 @@
             "support_number": "123 - 456 - 7890",
             "top_bar_content": [
                 {
-                    "content": "<i class=\"ri-truck-line\"></i> Free Shipping on Orders $100+"
+                    "content": "<i class=\"ri-truck-line\"></i> Free Local Delivery on Orders $50+"
                 },
                 {
-                    "content": "<i class=\"ri-megaphone-line\"></i> Buy One Get Two Free"
+                    "content": "<i class=\"ri-megaphone-line\"></i> Buy 6 Cupcakes Get 1 Free"
                 },
                 {
-                    "content": "<i class=\"ri-gift-line\"></i> Gift Card for all the season"
+                    "content": "<i class=\"ri-gift-line\"></i> Gift Cards Available for Holiday Season"
                 }
             ],
             "page_top_bar_enable": true,
@@ -202,66 +202,66 @@
         },
         "seller": {
             "about": {
-                "title": "Start Your Business With Multikart & Reach Customers Across The World...",
+                "title": "Join the Honore Family & Share Your Culinary Art...",
                 "status": true,
                 "image_url": "/images/placeholder/seller/seller_banner.png",
-                "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,\n\nOn the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+                "description": "We are always looking for passionate partners. If you are a local supplier of honey, jams, or organic flours, we want to work with you."
             },
             "steps": {
-                "title": "Doing Business On Multikart Is Really Easy",
+                "title": "Partnering with Us Is Easy",
                 "status": true,
                 "step_1": {
-                    "title": "List your products & Get support service provider",
-                    "description": "Register your business for free and create a product catalogue. Sell under your own private label or sell an existing brand. Get your documentation & cataloging done with ease from our Professional Services network."
+                    "title": "Contact Our Sourcing Team",
+                    "description": "Reach out via our partner portal with your product catalog."
                 },
                 "step_2": {
-                    "title": "Receive Orders & Schedule A Pickup",
-                    "description": "Once listed, your products will be available to millions of users.Get orders and manage your online business via our Seller Panel and Seller Zone Mobile App."
+                    "title": "Quality Check & Tasting",
+                    "description": "Our chefs will review your ingredients to ensure they meet our high standards."
                 },
                 "step_3": {
-                    "title": "Receive Quick Payment & Grow Your Business",
-                    "description": "Receive quick and hassle-free payments in your account once your orders are fulfilled. Expand your business with low interest & collateral-free loans."
+                    "title": "Start Supplying",
+                    "description": "Once approved, become a regular supplier for our daily bakes."
                 }
             },
             "services": {
-                "title": "WHY SELL ON MULTIKART?",
+                "title": "WHY PARTNER WITH US?",
                 "status": true,
                 "service_1": {
-                    "title": "lowest cost",
+                    "title": "Fair Trade",
                     "image_url": "/images/placeholder/seller/seller_service.png",
-                    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text."
+                    "description": "We believe in fair pricing for high-quality ingredients."
                 },
                 "service_2": {
-                    "title": "high growth rate",
+                    "title": "Community Growth",
                     "image_url": "/images/placeholder/seller/seller_service.png",
-                    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text"
+                    "description": "We prioritize local farmers and producers."
                 },
                 "service_3": {
-                    "title": "dedicated pickup",
+                    "title": "Consistent Orders",
                     "image_url": "/images/placeholder/seller/seller_service.png",
-                    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text"
+                    "description": "Reliable partnerships for daily bakery needs."
                 },
                 "service_4": {
-                    "title": "most approachable",
+                    "title": "Brand Visibility",
                     "image_url": "/images/placeholder/seller/seller_service.png",
-                    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text"
+                    "description": "We feature our partners in our monthly newsletter."
                 }
             },
             "start_selling": {
-                "title": "Start Selling",
+                "title": "Join Us",
                 "status": true,
-                "description": "Multikart marketplace is India’s leading platform for selling online. Be it a manufacturer, vendor or supplier, simply sell your products online on Multikart and become a top ecommerce player with minimum investment. Through a team of experts offering exclusive seller workshops, training, seller support and convenient seller portal, Multikart focuses on educating and empowering sellers across India. Selling on Multikart.com is easy and absolutely free. All you need is to register, list your catalogue and start selling your products."
+                "description": "Honore Bakery is committed to sustainability and community. Join us in bringing the best flavors to our customers."
             }
         },
         "general": {
             "mode": "light",
             "taglines": [
-                "⚡ Come Back !!",
-                "🎉 Offers for you..."
+                "⚡ Fresh out of the oven !!",
+                "🎉 Treats for you..."
             ],
             "cart_style": "cart_sidebar",
-            "site_title": "Multikart Marketplace: Where Vendors Shine Together",
-            "site_tagline": "Shop Unique, Sell Exceptional – Multikart Multi-Vendor Universe.",
+            "site_title": "Honore Bakery: Artisan Pastries & Cakes",
+            "site_tagline": "Handmade with love, baked for you.",
             "primary_color": "#ec8951",
             "secondary_color": null,
             "back_to_top_enable": true,
@@ -274,22 +274,22 @@
             "services": {
                 "banners": [
                     {
-                        "title": "Free Shipping",
+                        "title": "Freshness Guaranteed",
                         "status": true,
                         "image_url": "/images/theme/fashion_one/service.png",
-                        "description": "Free Shipping World Wide"
+                        "description": "Baked Fresh Every Morning"
                     },
                     {
-                        "title": "24 X 7 Service",
+                        "title": "Custom Orders",
                         "status": true,
                         "image_url": "/images/theme/fashion_one/service.png",
-                        "description": "Online Service For 24 X 7"
+                        "description": "Cakes for Every Occasion"
                     },
                     {
-                        "title": "Festival Offer",
+                        "title": "Local Ingredients",
                         "status": true,
                         "image_url": "/images/theme/fashion_one/service.png",
-                        "description": "Super Sale Upto 50% Off"
+                        "description": "Sourced from Local Farms"
                     }
                 ]
             },
@@ -306,14 +306,14 @@
             "is_trending_product": true,
             "product_box_variant": "product_box_two",
             "safe_checkout_image": "/images/theme/data/payments.png",
-            "shipping_and_return": "<p>Shipping and Returns are integral parts of your shopping experience, and we aim to make them as smooth as possible. We prioritize efficient shipping, striving to deliver your orders promptly within the estimated delivery window, typically ranging from 5 to 7 days. We understand that sometimes your purchase may not meet your expectations, so we offer a straightforward return policy. If you find yourself unsatisfied with your order, eligible items can be returned within 30 days of purchase, ensuring you have ample time to make a decision. Our commitment is to ensure your satisfaction and convenience throughout your shopping journey with us, and we're here to assist you every step of the way.</p><p><strong>Our Shipping Commitment:</strong></p><ul><li><p>Timely and reliable delivery within 5-7 days.</p></li><li><p>Real-time tracking for your orders.</p></li><li><p>Exceptional packaging to ensure your items arrive in perfect condition.</p></li><li><p></p></li></ul><p><strong>Our Hassle-Free Returns:</strong></p><ul><li><p>Eligible items can be returned within 30 days.</p></li><li><p>Easy return initiation through our website.</p></li><li><p>Prompt processing of returns for a hassle-free experience.</p></li><li><p>&nbsp;</p></li></ul><p>We understand that your shopping needs may vary, and we are here to accommodate them while providing exceptional service.</p>",
+            "shipping_and_return": "<p>We take great care in packaging our baked goods. For shipping, we use insulated boxes to ensure freshness.</p><p><strong>Our Commitment:</strong></p><ul><li><p>Fresh delivery within 24-48 hours for local orders.</p></li><li><p>Secure packaging for fragile items like macarons.</p></li></ul><p><strong>Returns:</strong></p><p>Due to the perishable nature of our products, we do not accept returns. However, if there is an issue with your order, please contact us within 24 hours for a resolution.</p>",
             "secure_checkout_image": "/images/theme/data/payments.png",
             "encourage_max_view_count": 5,
             "encourage_max_order_count": 50
         },
         "about_us": {
             "team": {
-                "title": "Multikart Team Member",
+                "title": "Meet Our Bakers",
                 "status": true,
                 "members": [
                     {
@@ -322,7 +322,7 @@
                         "facebook": "https://www.facebook.com/",
                         "instagram": "https://instagram.com/",
                         "pinterest": "https://pinterest.com/",
-                        "designation": "CEo & Founder At Company",
+                        "designation": "Head Pastry Chef & Founder",
                         "profile_image_url": "/images/placeholder/about-us/member.png"
                     },
                     {
@@ -331,7 +331,7 @@
                         "facebook": "https://www.facebook.com/",
                         "instagram": "https://instagram.com/",
                         "pinterest": "https://pinterest.com/",
-                        "designation": "Jr. Project Manager",
+                        "designation": "Senior Cake Decorator",
                         "profile_image_url": "/images/placeholder/about-us/member.png"
                     },
                     {
@@ -340,73 +340,108 @@
                         "facebook": "https://www.facebook.com/",
                         "instagram": "https://instagram.com/",
                         "pinterest": "https://pinterest.com/",
-                        "designation": "CEO, Company",
+                        "designation": "Artisan Bread Specialist",
                         "profile_image_url": "/images/placeholder/about-us/member.png"
                     },
                     {
-                        "name": "Alfredo S. ",
+                        "name": "Alfredo S.",
                         "twitter": "https://twitter.com/",
                         "facebook": "https://www.facebook.com/",
                         "instagram": "https://instagram.com/",
                         "pinterest": "https://pinterest.com/",
-                        "designation": "Sr. Project Manager",
+                        "designation": "Master Chocolatier",
                         "profile_image_url": "/images/placeholder/about-us/member.png"
                     }
-                ],
-                "sub_title": "Our Creative Team Multikart"
+                ]
             },
+            "sub_title": "The Artists Behind the Apron",
             "about": {
-                "title": "Sed Ut Perspiciatis Unde Omnis Iste Natus Error Sit Voluptatem Accusantium Doloremque Laudantium",
+                "title": "Our Story: A Passion for Pastry and the Pursuit of Perfection",
                 "status": true,
                 "futures": [
                     {
                         "icon": "/images/theme/fashion_one/service.png",
-                        "title": "Free Shipping",
-                        "description": "Free Shipping World Wide"
+                        "title": "Freshly Baked",
+                        "description": "Ovens running 24/7"
                     },
                     {
                         "icon": "/images/theme/fashion_one/caller.png",
-                        "title": "24 X 7 Service",
-                        "description": "Online Service For New Customer"
+                        "title": "Custom Events",
+                        "description": "Catering for Weddings & Parties"
                     },
                     {
                         "icon": "/images/theme/fashion_one/offer.png",
-                        "title": "Festival Offer",
-                        "description": "New Online Special Festival Offer"
+                        "title": "Seasonal Menu",
+                        "description": "New Flavors Every Month"
                     }
                 ],
-                "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,\n\nOn the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.",
+                "description": "At our bakery, baking is more than just a daily routine—it is a vocation born from a love of simple, honest ingredients. We started with a singular mission: to bring the authentic taste of artisanal patisserie to our local neighborhood. Every day, our ovens warm up before the sun rises, filling the streets with the comforting aroma of toasted flour, melting butter, and fresh vanilla.\n\nOn the other hand, we strictly refuse to cut corners. We dislike the modern trend of mass-produced, artificial sweets that lack soul. We are so captivated by the charm of traditional techniques—like our 24-hour slow-fermented doughs and hand-laminated croissants—that we cannot imagine baking any other way. Equal praise belongs to our dedicated team who fail to compromise on quality, ensuring that every item is a masterpiece of flavor.\n\nIn our kitchen, when the timer dings and the trays emerge golden-brown, we know we have done our job right. We believe that true flavor requires patience and passion. We invite you to step inside, take a break from the busy world, and taste the difference that handmade care makes.",
                 "content_bg_image_url": "/images/placeholder/about-us/about_banner.png",
                 "content_left_image_url": null,
                 "content_right_image_url": null
             },
             "testimonial": {
-                "title": "What People Say",
+                "title": "Sweet Talk",
                 "status": true,
                 "reviews": [
                     {
-                        "name": "Alfredo S. Rocha",
-                        "title": "Alfredo S. Rocha",
-                        "review": "\"I bought this product on a budget, and it exceeded my expectations. The quality is impressive for the price. I'm delighted with my purchase.\"",
-                        "designation": "CEO, Company",
+                        "name": "Sarah Jenkins",
+                        "title": "Sarah Jenkins",
+                        "review": "\"I ordered a custom three-tier cake for my daughter's wedding, and it was absolutely stunning. Not only did it look like a masterpiece, but the vanilla bean sponge was moist and delicious. Highly recommended!\"",
+                        "designation": "Wedding Planner",
                         "profile_image_url": "/images/placeholder/about-us/testimonial.png"
                     },
                     {
-                        "name": "Betty J. Turner",
-                        "title": "Betty J. Turner",
-                        "review": "\"I had high hopes for this product, but it fell short of my expectations. It constantly crashes and lacks essential features. I wouldn't recommend it.\"",
-                        "designation": "Sr. Project Manager",
+                        "name": "Michael Ross",
+                        "title": "Michael Ross",
+                        "review": "\"This bakery has arguably the best almond croissants in the city. The layers are perfectly flaky, and the filling is rich without being overly sweet. It has become my mandatory Sunday morning ritual.\"",
+                        "designation": "Food Blogger",
                         "profile_image_url": "/images/placeholder/about-us/testimonial.png"
                     },
                     {
-                        "name": "Gwen J. Geiger",
-                        "title": "Gwen J. Geiger",
-                        "review": "\"I encountered a minor issue with my purchase, and the customer service team was quick to resolve it. Their prompt and friendly support made me a happy customer!\"",
-                        "designation": "Designer",
+                        "name": "Emily Chen",
+                        "title": "Emily Chen",
+                        "review": "\"I needed a last-minute dessert box for a corporate client, and the team went above and beyond to help me curate a beautiful selection of macarons and tarts. The presentation was impeccable.\"",
+                        "designation": "Office Manager",
                         "profile_image_url": "/images/placeholder/about-us/testimonial.png"
                     }
                 ],
-                "sub_title": "Latest Testimonials"
+                "sub_title": "Love at First Bite"
+            },
+            "blog": {
+                "title": "From Our Kitchen to Yours",
+                "sub_title": "Latest Bakery News",
+                "status": true,
+                "blogs": [
+                    {
+                        "title": "The Joy of Rustic Baking: Pear & Thyme Galette",
+                        "slug": "joy-of-rustic-baking-pear-thyme-galette",
+                        
+                        "image_url": "assets/images/placeholder/about-us/theme_blog_7.png",
+                        "created_at": "2025-12-08T10:00:00.000000Z"
+                    },
+                    {
+                        "title": "The Golden Standard: The Art of the Perfect Croissant",
+                        "slug": "golden-standard-art-of-perfect-croissant",
+                        
+                        "image_url": "assets/images/placeholder/about-us/theme_blog_6.png",
+                        "created_at": "2025-12-05T09:30:00.000000Z"
+                    },
+                    {
+                        "title": "A Symphony of Color: The Ultimate Macaron Flavor Guide",
+                        "slug": "symphony-of-color-ultimate-macaron-flavor-guide",
+                       
+                        "image_url": "assets/images/placeholder/about-us/theme_blog_10.png",
+                        "created_at": "2025-12-01T14:15:00.000000Z"
+                    },
+                    {
+                        "title": "Cheesecake 101: A Beginner's Guide to the Perfect Slice",
+                        "slug": "cheesecake-101-beginners-guide-perfect-slice",
+                        
+                        "image_url": "assets/images/placeholder/about-us/theme_blog_22.png",
+                        "created_at": "2025-11-28T08:00:00.000000Z"
+                    }
+                ]
             }
         },
         "collection": {

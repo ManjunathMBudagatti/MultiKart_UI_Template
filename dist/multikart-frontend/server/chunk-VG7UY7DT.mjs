@@ -1,2 +1,0 @@
-import './polyfills.server.mjs';
-var a=(()=>{let s=class s{constructor(r){this.payload=r}};s.type="[Blog] Get";let t=s;return t})(),e=(()=>{let s=class s{constructor(r){this.slug=r}};s.type="[Blog] By Slug";let t=s;return t})(),c=(()=>{let s=class s{constructor(r){this.payload=r}};s.type="[Blog] By Recent";let t=s;return t})(),l=(()=>{let s=class s{constructor(r){this.payload=r}};s.type="[Blog] Selected";let t=s;return t})();export{a,e as b,c,l as d};
