@@ -133,11 +133,27 @@ export interface ISeller {
   store_image_url: string;
 }
 
+// --- UPDATED IAboutUs INTERFACE ---
 export interface IAboutUs {
   about: IAboutSection;
   team: ITeam;
   testimonial: ITestimonial;
+  sub_title?: string; 
+ 
+  blog?: {
+    title: string;
+    sub_title: string;
+    status: boolean;
+    blogs: {
+      title: string;
+      slug: string;
+      description: string;
+      image_url: string;
+      created_at: string;
+    }[];
+  };
 }
+// ----------------------------------
 
 export interface IAboutSection {
   status: boolean;
@@ -145,6 +161,8 @@ export interface IAboutSection {
   title: string;
   description: string;
   futures: IAboutFutures[];
+  content_left_image_url?: string;
+  content_right_image_url?: string;
 }
 
 export interface IAboutFutures {
@@ -177,7 +195,7 @@ export interface IMember {
   profile_image_url: string;
   name: string;
   designation: string;
-  description: string;
+  description?: string;
   instagram: string;
   twitter: string;
   pinterest: string;
@@ -197,11 +215,6 @@ export interface IReview {
   name: string;
   designation: string;
   review: string;
-}
-
-export interface IBlog {
-  status: boolean;
-  blog_ids: number[];
 }
 
 export interface IServices {

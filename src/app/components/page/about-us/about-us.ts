@@ -1,5 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component, inject } from '@angular/core';
+import { RouterModule } from '@angular/router'; // Import RouterModule
 
 import { TranslateModule } from '@ngx-translate/core';
 import { Store } from '@ngxs/store';
@@ -15,7 +16,8 @@ import { ThemeOptionState } from '../../../shared/store/state/theme-option.state
 
 @Component({
   selector: 'app-about-us',
-  imports: [CommonModule, CarouselModule, TranslateModule, Breadcrumb],
+  // Added RouterModule to imports array
+  imports: [CommonModule, CarouselModule, TranslateModule, Breadcrumb, RouterModule],
   templateUrl: './about-us.html',
   styleUrl: './about-us.scss',
 })

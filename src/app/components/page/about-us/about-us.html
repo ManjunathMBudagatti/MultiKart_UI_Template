@@ -1,7 +1,6 @@
 <app-breadcrumb [breadcrumb]="breadcrumb" />
 
-<!-- about section start -->
-@if((aboutUs?.about?.content_bg_image_url)){
+@if(aboutUs?.about?.content_bg_image_url){
 <section class="about-page section-b-space">
   <div class="container">
     <div class="banner-section">
@@ -13,14 +12,12 @@
     </div>
     <div class="mt-4">
       <h3>{{ aboutUs?.about?.title }}</h3>
-      <p>{{ aboutUs?.about?.description }}</p>
+      <p style="white-space: pre-line">{{ aboutUs?.about?.description }}</p>
     </div>
   </div>
 </section>
 }
-<!-- about section end -->
 
-<!--Testimonial start-->
 @if(aboutUs?.testimonial?.status && aboutUs?.testimonial?.reviews?.length){
 <section class="testimonial small-section">
   <div class="container">
@@ -28,6 +25,7 @@
       <h4>{{ aboutUs?.testimonial?.sub_title }}</h4>
       <h2 class="title-inner1">{{ aboutUs?.testimonial?.title }}</h2>
     </div>
+
     <div class="slide-2 testimonial-slider">
       <owl-carousel-o [options]="testimonialOptions">
         @for(team of aboutUs?.testimonial?.reviews; track team.name){
@@ -51,20 +49,23 @@
   </div>
 </section>
 }
-<!--Testimonial ends-->
 
-<!--Team start-->
 @if(aboutUs?.team?.status && aboutUs?.team?.members?.length){
 <section id="team" class="team section-b-space">
   <div class="container">
     <div class="title1">
       <h2 class="title-inner1 border-0">{{ aboutUs?.team?.title }}</h2>
     </div>
+
     <div class="team-4">
       <owl-carousel-o [options]="teamOptions">
         @for(team of aboutUs?.team?.members; track team.name){
         <ng-template carouselSlide>
-          <img [src]="StorageURL + team?.profile_image_url" class="img-fluid" [alt]="team?.name" />
+          <img
+            [src]="StorageURL + team?.profile_image_url"
+            class="img-fluid"
+            [alt]="team?.name"
+          />
           <h4>{{ team?.name }}</h4>
           <h6>{{ team?.designation }}</h6>
         </ng-template>
@@ -75,7 +76,48 @@
 </section>
 }
 
-<!-- Service Start -->
+@if(aboutUs?.blog?.status && aboutUs?.blog?.blogs?.length){
+<section class="blog section-b-space ratio2_3">
+  <div class="container">
+    <div class="title1">
+      <h4>{{ aboutUs?.blog?.sub_title }}</h4>
+      <h2 class="title-inner1">{{ aboutUs?.blog?.title }}</h2>
+    </div>
+
+    <div class="row g-4">
+      @for(blog of aboutUs?.blog?.blogs; track blog.title){
+      <div class="col-xl-3 col-lg-4 col-md-6">
+        <div class="blog-box">
+          <div class="blog-img">
+            <!-- FIXED ROUTING + IMAGE URL -->
+            <a [routerLink]="['/blog', blog.slug]">
+              <img
+                [src]="blog.image_url" 
+                class="img-fluid blur-up lazyload bg-img"
+                alt="{{ blog.title }}"
+              />
+            </a>
+          </div>
+
+          <div class="blog-details">
+            <h6 class="blog-date">
+              {{ blog.created_at | date: 'dd MMMM, yyyy' }}
+            </h6>
+
+            <a [routerLink]="['/blog', blog.slug]">
+              <h4>{{ blog.title }}</h4>
+            </a>
+
+            <p>{{ blog.description }}</p>
+          </div>
+        </div>
+      </div>
+      }
+    </div>
+  </div>
+</section>
+}
+
 @if(aboutUs?.about?.futures){
 <div class="container about-cls section-b-space">
   <section class="service border-section small-section">
@@ -83,11 +125,23 @@
       @for(service of aboutUs?.about?.futures; track service.title){
       <div
         class="service-block"
-        [ngClass]="aboutUs?.about?.futures?.length === 4 ? 'col-xl-3 col-sm-6' : aboutUs?.about?.futures?.length === 3 ? 'col-md-4' : aboutUs?.about?.futures?.length === 2 ? 'col-md-6' : 'col-12'"
+        [ngClass]="
+          aboutUs?.about?.futures?.length === 4
+            ? 'col-xl-3 col-sm-6'
+            : aboutUs?.about?.futures?.length === 3
+            ? 'col-md-4'
+            : aboutUs?.about?.futures?.length === 2
+            ? 'col-md-6'
+            : 'col-12'
+        "
       >
         <div class="media">
-          <img [src]="StorageURL+service.icon" [alt]="service.title" />
+          <img
+            [src]="StorageURL + service.icon"
+            [alt]="service.title"
+          />
           <div class="skeleton-img-box"></div>
+
           <div class="media-body">
             <h4>{{ service.title }}</h4>
             <h4 class="skeleton-content-h4"></h4>
@@ -101,4 +155,3 @@
   </section>
 </div>
 }
-<!-- Service End -->
