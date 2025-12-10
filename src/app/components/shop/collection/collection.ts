@@ -56,8 +56,8 @@ export class Collection {
   public layout: string = 'collection_category_slider';
   public skeleton: boolean = true;
   public breadcrumb: IBreadcrumb = {
-    title: 'Collections',
-    items: [{ label: 'Collections', active: false }],
+    title: 'Products',
+    items: [{ label: 'Products', active: false }],
   };
 
   public filter: Params = {

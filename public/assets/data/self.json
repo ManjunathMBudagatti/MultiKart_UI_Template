@@ -1,7 +1,7 @@
 {
     "id": 2,
-    "name": "john due",
-    "email": "john.customer@example.com",
+    "name": "RPNC User",
+    "email": "rpnc.customer@gmail.com",
     "country_code": "1",
     "phone": 0,
     "profile_image_id": null,
@@ -168,9 +168,9 @@
             "id": 1,
             "title": "New Home",
             "user_id": "2",
-            "street": "26, Starts Hollow Colony",
-            "city": "Denver",
-            "pincode": "80014",
+            "street": "125, 3rd floor, 7th Cross Rd, Dollar Layout, BTM 2nd Stage, BTM Layout",
+            "city": "Bengaluru",
+            "pincode": "560076",
             "is_default": 0,
             "country_code": "1",
             "phone": 5551855359,
@@ -178,11 +178,11 @@
             "state_id": 3759,
             "country": {
                 "id": 840,
-                "name": "United States"
+                "name": "India"
             },
             "state": {
                 "id": 3759,
-                "name": "Colorado",
+                "name": "Karnataka",
                 "country_id": "840"
             }
         },

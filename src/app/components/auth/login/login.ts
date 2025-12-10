@@ -72,8 +72,8 @@ export class Login {
 
   constructor() {
     this.loginForm = this.formBuilder.group({
-      email: new FormControl('john.customer@example.com', [Validators.required, Validators.email]),
-      password: new FormControl('123456789', Validators.required),
+      email: new FormControl('rpnc.customer@gmail.com', [Validators.required, Validators.email]),
+      password: new FormControl('RPNC', Validators.required),
     });
   }
 
