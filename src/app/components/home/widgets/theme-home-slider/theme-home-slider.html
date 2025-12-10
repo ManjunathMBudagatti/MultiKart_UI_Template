@@ -1,9 +1,133 @@
-@if(banners()){ @if(filteredBanners && filteredBanners.length > 1) {
-<owl-carousel-o [options]="options">
-  @for(banner of filteredBanners; track i; let i = $index){ @if(banner.status && banner.image_url){
-  @if(videoType.includes(banner && banner.image_url &&
-  banner.image_url.substring(banner.image_url.lastIndexOf('.') + 1))){
-  <ng-template carouselSlide>
+@if(banners()){ 
+  @if(filteredBanners && filteredBanners.length > 1) {
+
+    <div class="carousel-container-wrapper" style="position: relative; overflow: hidden;">
+      
+      <div *ngIf="showBrokenEffect" class="broken-effect-overlay">
+        <div 
+          *ngFor="let bar of leavingImageBars; let i = index"
+          class="broken-bar"
+          [ngStyle]="bar.style"
+          [class.broken-bar-animate]="showBrokenEffect"
+          [class.broken-bar-left]="i % 2 === 0"
+          [class.broken-bar-right]="i % 2 !== 0">
+        </div>
+      </div>
+
+      <owl-carousel-o [options]="options" (translated)="onSlideChange($event)">
+        @for(banner of filteredBanners; track i; let i = $index){ 
+          @if(banner.status && banner.image_url){
+            
+            @if(videoType.includes(banner && banner.image_url && 
+            banner.image_url.substring(banner.image_url.lastIndexOf('.') + 1))){
+              <ng-template carouselSlide>
+                <div
+                  class="slider-contain"
+                  id="block"
+                  style="width: 100%; position: relative"
+                  data-vide-options="position: 0% 50%"
+                >
+                  <div
+                    style="
+                      position: absolute;
+                      z-index: -1;
+                      inset: 0px;
+                      overflow: hidden;
+                      background-size: cover;
+                      background-color: transparent;
+                      background-repeat: no-repeat;
+                      background-position: 0% 50%;
+                      background-image: none;
+                    "
+                  >
+                    <video
+                      autoplay=""
+                      loop=""
+                      muted=""
+                      style="
+                        margin: auto;
+                        position: absolute;
+                        z-index: -1;
+                        top: 50%;
+                        left: 0%;
+                        transform: translate(0%, -50%);
+                        visibility: visible;
+                        opacity: 1;
+                        width: 1907px;
+                        height: auto;
+                      "
+                    >
+                      <source [src]="StorageURL+banner.image_url" type="video/mp4" />
+                    </video>
+                  </div>
+                </div>
+              </ng-template>
+
+            }@else {
+              <ng-template carouselSlide>
+                <div 
+                  class="carousel-slide-content"
+                  style="position: relative; width: 100%; height: 100%;"
+                  [class.first-slide-animated]="i === 0 && activeSlideIndex === 0"
+                  [class.second-slide-animated]="i === 1 && activeSlideIndex === 1"
+                  [class.third-slide-animated]="i === 2 && activeSlideIndex === 2"
+                >
+                  <app-image-link
+                    [class]="'home'"
+                    [image]="banner"
+                    [bgImage]="false"
+                    [placeholder]="'assets/images/placeholder/banner.png'"
+                  />
+                  
+                  <div *ngIf="i === 0 && activeSlideIndex === 0" class="svg-animation-overlay">
+                    <svg viewBox="0 0 1320 300">
+                      <text x="50%" y="50%" dy=".35em" text-anchor="middle">
+                        Honore
+                      </text>
+                    </svg>
+                    <div class="tagline tagline-svg">
+                      Crafted with passion, served with warmth.
+                    </div>
+                  </div>
+
+                  <div *ngIf="i === 1 && activeSlideIndex === 1" class="animation-overlay">
+                    <div class="animated-card-container">
+                      <div class="block animated-card">
+                        <span class="circleLight"></span>
+                        <div class="text">
+                          <h2 class="bakery-words">
+                            <span class="word1">FRESH</span>
+                            <span class="word2">BAKED</span>
+                            <span class="word3">BREAD</span>
+                          </h2>
+                          <p class="tagline tagline-card">The taste of tradition, baked with love.</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div *ngIf="i === 2 && activeSlideIndex === 2" class="third-slide-overlay">
+                    <div class="text-container">
+                      <div>Every bite tells a story.</div>
+                      <div>Baked with love, for you.</div>
+                      <div>Simple ingredients, rich flavors.</div>
+                      <div>From our oven to your heart.</div>
+                      <div>Taste the difference tradition makes.</div>
+                    </div>
+                  </div>
+
+                </div>
+              </ng-template>
+            } 
+          } 
+        }
+      </owl-carousel-o>
+    </div>
+
+  } @else { 
+    @if(filteredBanners.length && filteredBanners[0].image_url &&
+    videoType.includes(filteredBanners[0].image_url.substring(filteredBanners[0].image_url.lastIndexOf('.')
+    + 1))){
     <div
       class="slider-contain"
       id="block"
@@ -40,73 +164,21 @@
             height: auto;
           "
         >
-          <source [src]="StorageURL+banner.image_url" type="video/mp4" />
+          <source [src]="StorageURL+filteredBanners[0].image_url" type="video/mp4" />
         </video>
       </div>
     </div>
-  </ng-template>
-  }@else {
-  <ng-template carouselSlide>
+    }@else {
     <app-image-link
       [class]="'home'"
-      [image]="banner"
-      [bgImage]="false"
+      [image]="filteredBanners[0]"
       [placeholder]="'assets/images/placeholder/banner.png'"
+      [bgImage]="false"
     />
-  </ng-template>
-  } } }
-</owl-carousel-o>
-} @else { @if(filteredBanners.length && filteredBanners[0].image_url &&
-videoType.includes(filteredBanners[0].image_url.substring(filteredBanners[0].image_url.lastIndexOf('.')
-+ 1))){
-<div
-  class="slider-contain"
-  id="block"
-  style="width: 100%; position: relative"
-  data-vide-options="position: 0% 50%"
->
-  <div
-    style="
-      position: absolute;
-      z-index: -1;
-      inset: 0px;
-      overflow: hidden;
-      background-size: cover;
-      background-color: transparent;
-      background-repeat: no-repeat;
-      background-position: 0% 50%;
-      background-image: none;
-    "
-  >
-    <video
-      autoplay=""
-      loop=""
-      muted=""
-      style="
-        margin: auto;
-        position: absolute;
-        z-index: -1;
-        top: 50%;
-        left: 0%;
-        transform: translate(0%, -50%);
-        visibility: visible;
-        opacity: 1;
-        width: 1907px;
-        height: auto;
-      "
-    >
-      <source [src]="StorageURL+filteredBanners[0].image_url" type="video/mp4" />
-    </video>
-  </div>
-</div>
-}@else {
-<app-image-link
-  [class]="'home'"
-  [image]="filteredBanners[0]"
-  [placeholder]="'assets/images/placeholder/banner.png'"
-  [bgImage]="false"
-/>
-} } }
+    } 
+  } 
+}
+
 <div class="home-skeleton">
   <div class="skeleton-content">
     <div class="container">

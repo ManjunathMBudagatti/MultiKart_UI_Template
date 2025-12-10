@@ -1,0 +1,323 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+
+/* --------------------------------------------------- */
+/* KEN BURNS (ZOOM) EFFECT - The New Animation */
+/* --------------------------------------------------- */
+.carousel-slide-content {
+  position: relative !important;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+/* This targets the image ONLY when the slide is active */
+/* Note: ::ng-deep is needed because app-image-link encapsulates the img tag */
+:host ::ng-deep .owl-item.active .carousel-slide-content img {
+  animation: kenBurns 6s linear forwards;
+  transform-origin: center center;
+}
+
+/* The Zoom Keyframes */
+@keyframes kenBurns {
+  0% { transform: scale(1); }
+  100% { transform: scale(1.15); /* Zooms in by 15% */ }
+}
+
+/* --------------------------------------------------- */
+/* GENERAL LAYOUT */
+/* --------------------------------------------------- */
+app-image-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+
+  ::ng-deep img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transform: scale(1); 
+  }
+}
+
+/* --------------------------------------------------- */
+/* OVERLAYS (Text Positioning) */
+/* --------------------------------------------------- */
+.svg-animation-overlay,
+.animation-overlay,
+.third-slide-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10; 
+  pointer-events: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* --------------------------------------------------- */
+/* SLIDE 1: SVG TEXT ("Honore") */
+/* --------------------------------------------------- */
+.svg-animation-overlay svg {
+  font-family: 'Russo One', sans-serif;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  max-height: 200px;
+  filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5));
+}
+
+.svg-animation-overlay svg text {
+  text-transform: uppercase;
+  animation: stroke 5s infinite alternate;
+  stroke-width: 2;
+  stroke: #F7931E; 
+  font-size: 140px;
+  fill: rgba(255, 255, 255, 0); 
+}
+
+.svg-animation-overlay .tagline-svg {
+  font-family: 'Playfair Display', serif;
+  font-size: 28px;
+  font-weight: 400;
+  color: black;
+  margin-top: -30px; /* Desktop Gap */
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.5); /* Lighter shadow for black text */
+  animation: fade-in-up 1s ease-out 2s forwards;
+  opacity: 0;
+}
+
+@keyframes stroke {
+  0% {
+    fill: rgba(247, 147, 30, 0);
+    stroke: #F7931E;
+    stroke-dashoffset: 25%;
+    stroke-dasharray: 0 50%;
+    stroke-width: 2;
+  }
+  70% {
+    fill: rgba(247, 147, 30, 0); 
+    stroke: #F7931E;
+  }
+  100% {
+    fill: #F7931E; 
+    stroke: rgba(247, 147, 30, 0);
+    stroke-dashoffset: -25%;
+    stroke-dasharray: 50% 0;
+    stroke-width: 0;
+  }
+}
+
+@keyframes fade-in-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* --------------------------------------------------- */
+/* SLIDE 2: CARD ANIMATION */
+/* --------------------------------------------------- */
+.animated-card-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0,0,0,0.1); 
+}
+
+.block.animated-card {
+  padding: 40px;
+  color: #ffffff;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(5px);
+  box-shadow: 0px 5px 25px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  opacity: 0;
+  transform: translateY(50px);
+  animation: card-in 0.8s ease-out forwards;
+  text-align: center;
+}
+
+.bakery-words {
+  font-family: 'Oswald', sans-serif;
+  font-size: 65px;
+  color: #ff9f00;
+  margin: 0;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.bakery-words span {
+  display: block;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: text-pop-in 0.5s ease-out forwards;
+}
+
+.bakery-words .word1 { animation-delay: 0.8s; }
+.bakery-words .word2 { animation-delay: 1.1s; }
+.bakery-words .word3 { animation-delay: 1.4s; }
+
+.tagline-card {
+  font-family: 'Playfair Display', serif;
+  font-size: 22px;
+  color: #fff;
+  margin-top: 15px;
+  opacity: 0;
+  animation: tagline-in 0.5s ease-out forwards;
+  animation-delay: 1.8s;
+}
+
+@keyframes card-in { to { opacity: 1; transform: translateY(0); } }
+@keyframes text-pop-in { to { opacity: 1; transform: translateY(0); } }
+@keyframes tagline-in { to { opacity: 1; } }
+
+/* --------------------------------------------------- */
+/* SLIDE 3: FLOATING TEXT */
+/* --------------------------------------------------- */
+.text-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.text-container > div {
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.8);
+  position: absolute;
+  opacity: 0;
+  animation: text-come-to-life 12s linear infinite;
+  white-space: nowrap;
+}
+
+.text-container > div:nth-child(1) { top: 20%; left: 15%; animation-delay: 0s; }
+.text-container > div:nth-child(2) { top: 40%; right: 15%; animation-delay: 2.5s; }
+.text-container > div:nth-child(3) { top: 50%; left: 50%; transform: translateX(-50%); animation-delay: 5s; }
+.text-container > div:nth-child(4) { top: 70%; left: 15%; animation-delay: 7.5s; }
+.text-container > div:nth-child(5) { top: 80%; right: 15%; animation-delay: 10s; }
+
+@keyframes text-come-to-life {
+  0% { transform: scale(0.5); opacity: 0; filter: blur(5px); }
+  20% { transform: scale(1); opacity: 1; filter: blur(0px); }
+  80% { opacity: 1; filter: blur(0px); }
+  100% { transform: scale(1.5); opacity: 0; filter: blur(5px); }
+}
+
+/* ================================================================= */
+/* 📱 FIXED MOBILE RESPONSIVENESS (Screens smaller than 767px) */
+/* ================================================================= */
+@media only screen and (max-width: 767px) {
+  
+  /* 1. Force the Container Height */
+  .carousel-slide-content {
+    position: relative !important;
+    height: 350px !important; 
+    width: 100% !important;
+    overflow: hidden;
+  }
+
+  /* 2. Force Image to cover background */
+  app-image-link {
+    position: absolute !important;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+    z-index: 1;
+  }
+
+  :host ::ng-deep app-image-link img {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important; 
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  /* 3. General Overlay Positioning */
+  .svg-animation-overlay,
+  .animation-overlay,
+  .third-slide-overlay {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    z-index: 10 !important;
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0,0,0,0.1); /* Lighter tint */
+  }
+
+  /* 4. FIX SLIDE 1: Make "Honore" BIGGER on Mobile */
+  .svg-animation-overlay svg {
+    width: 95% !important; /* Take full width */
+    height: auto;
+    max-height: none !important; 
+    overflow: visible;
+  }
+
+  .svg-animation-overlay svg text {
+    /* DRASTICALLY INCREASED SIZE FOR MOBILE */
+    /* This makes the text fill the viewBox width */
+    font-size: 220px !important; 
+    stroke-width: 4px; /* Thicker stroke for visibility */
+    y: 60%; 
+  }
+
+  .svg-animation-overlay .tagline-svg {
+    font-size: 18px !important; 
+    font-weight: 600;
+    color: #333 !important; /* Darker color for better contrast on mobile */
+    text-shadow: none;
+    margin-top: 0px !important; 
+    width: 90%;
+    text-align: center;
+    line-height: 1.3;
+  }
+
+  /* 5. Fix Slide 2 (Bakery Card) */
+  .block.animated-card {
+    width: 90% !important;
+    padding: 25px !important;
+  }
+
+  .bakery-words {
+    font-size: 40px !important;
+  }
+
+  .tagline-card {
+    font-size: 16px !important;
+    margin-top: 10px !important;
+  }
+
+  /* 6. Fix Slide 3 (Floating Text) */
+  .text-container > div {
+    font-size: 20px !important;
+    width: 90%;
+    left: 5% !important; /* Center it */
+    right: auto !important;
+    transform: none !important;
+    text-align: center;
+  }
+  
+  .text-container > div:nth-child(1) { top: 20%; }
+  .text-container > div:nth-child(2) { top: 35%; }
+  .text-container > div:nth-child(3) { top: 50%; }
+  .text-container > div:nth-child(4) { top: 65%; }
+  .text-container > div:nth-child(5) { top: 80%; }
+}
