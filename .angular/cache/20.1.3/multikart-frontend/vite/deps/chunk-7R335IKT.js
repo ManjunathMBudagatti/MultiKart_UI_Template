@@ -22,6 +22,9 @@ function trigger(name, definitions) {
 function animate(timings, styles = null) {
   return { type: AnimationMetadataType.Animate, styles, timings };
 }
+function group(steps, options = null) {
+  return { type: AnimationMetadataType.Group, steps, options };
+}
 function sequence(steps, options = null) {
   return { type: AnimationMetadataType.Sequence, steps, options };
 }
@@ -31,8 +34,26 @@ function style(tokens) {
 function state(name, styles, options) {
   return { type: AnimationMetadataType.State, name, styles, options };
 }
+function keyframes(steps) {
+  return { type: AnimationMetadataType.Keyframes, steps };
+}
 function transition(stateChangeExpr, steps, options = null) {
   return { type: AnimationMetadataType.Transition, expr: stateChangeExpr, animation: steps, options };
+}
+function animation(steps, options = null) {
+  return { type: AnimationMetadataType.Reference, animation: steps, options };
+}
+function animateChild(options = null) {
+  return { type: AnimationMetadataType.AnimateChild, options };
+}
+function useAnimation(animation2, options = null) {
+  return { type: AnimationMetadataType.AnimateRef, animation: animation2, options };
+}
+function query(selector, animation2, options = null) {
+  return { type: AnimationMetadataType.Query, selector, animation: animation2, options };
+}
+function stagger(timings, animation2) {
+  return { type: AnimationMetadataType.Stagger, timings, animation: animation2 };
 }
 var NoopAnimationPlayer = class {
   _onDoneFns = [];
@@ -262,10 +283,17 @@ export {
   AUTO_STYLE,
   trigger,
   animate,
+  group,
   sequence,
   style,
   state,
+  keyframes,
   transition,
+  animation,
+  animateChild,
+  useAnimation,
+  query,
+  stagger,
   NoopAnimationPlayer,
   AnimationGroupPlayer,
   ɵPRE_STYLE
@@ -279,4 +307,4 @@ export {
    * License: MIT
    *)
 */
-//# sourceMappingURL=chunk-7BUDM4EP.js.map
+//# sourceMappingURL=chunk-7R335IKT.js.map

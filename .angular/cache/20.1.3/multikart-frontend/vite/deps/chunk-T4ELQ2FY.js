@@ -1,6 +1,6 @@
 import {
   sequence
-} from "./chunk-7BUDM4EP.js";
+} from "./chunk-7R335IKT.js";
 import {
   ANIMATION_MODULE_TYPE,
   DOCUMENT,
@@ -179,6 +179,12 @@ function isAnimationRenderer(renderer) {
   const type = renderer.ɵtype;
   return type === 0 || type === 1;
 }
+
+export {
+  AnimationBuilder,
+  AnimationFactory,
+  BrowserAnimationBuilder
+};
 /*! Bundled license information:
 
 @angular/animations/fesm2022/animations.mjs:
@@ -188,4 +194,4 @@ function isAnimationRenderer(renderer) {
    * License: MIT
    *)
 */
-//# sourceMappingURL=chunk-6HKUDCDA.js.map
+//# sourceMappingURL=chunk-T4ELQ2FY.js.map
