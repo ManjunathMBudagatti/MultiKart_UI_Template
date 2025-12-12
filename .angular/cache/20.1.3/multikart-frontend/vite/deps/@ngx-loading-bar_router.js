@@ -1,8 +1,4 @@
 import {
-  LoadingBarModule,
-  LoadingBarService
-} from "./chunk-442WJW4U.js";
-import {
   NavigationCancel,
   NavigationEnd,
   NavigationError,
@@ -13,6 +9,10 @@ import {
 import "./chunk-GKWHCQQN.js";
 import "./chunk-JQU2C4RK.js";
 import "./chunk-ZQKDW7V2.js";
+import {
+  LoadingBarModule,
+  LoadingBarService
+} from "./chunk-442WJW4U.js";
 import "./chunk-XBVSCJA2.js";
 import "./chunk-636JCMZ5.js";
 import {

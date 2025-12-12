@@ -17,22 +17,33 @@ export class ThemeHomeSlider {
   readonly banners = input<any>();
   readonly theme = input<string>();
 
+  /* ---------------------------
+     UPDATED TRANSITION EFFECT
+     --------------------------- */
   public options: OwlOptions = {
     ...homeBannerSlider,
+
     loop: true,
     autoplay: true,
-    autoplayTimeout: 6000, 
+    autoplayTimeout: 6000,
     autoplayHoverPause: false,
-    smartSpeed: 1000, 
-    mouseDrag: true,
-    touchDrag: true,
-    pullDrag: true,
+
+    /* ❗ Smooth Fade Transition */
+    animateIn: 'fadeIn',
+    animateOut: 'fadeOut',
+    smartSpeed: 700,
+
+    /* Normalize interaction */
+    mouseDrag: false,
+    touchDrag: false,
+    pullDrag: false,
   };
 
   public filteredBanners: IBanners[] = [];
   public videoType = ['mp4', 'webm', 'ogg'];
   public StorageURL = environment.storageURL;
 
+  // Only for text animation triggers
   public activeSlideIndex: number = 0;
 
   constructor(@Inject(PLATFORM_ID) private platformId: Object) {}

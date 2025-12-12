@@ -14,7 +14,6 @@ import { ExitModal } from '../shared/components/widgets/modal/exit-modal/exit-mo
 import { LoginModal } from '../shared/components/widgets/modal/login-modal/login-modal';
 import { NewsletterModal } from '../shared/components/widgets/modal/newsletter-modal/newsletter-modal';
 import { RecentPurchasePopup } from '../shared/components/widgets/recent-purchase-popup/recent-purchase-popup';
-import { StickyCompare } from '../shared/components/widgets/sticky-compare/sticky-compare';
 import { ThemeCustomizer } from '../shared/components/widgets/theme-customizer/theme-customizer';
 import { IOption } from '../shared/interface/theme-option.interface';
 import { AuthService } from '../shared/services/auth.service';
@@ -35,7 +34,6 @@ import { ThemeOptionState } from '../shared/store/state/theme-option.state';
     LoadingBarRouterModule,
     Header,
     BackToTop,
-    StickyCompare,
     NewsletterModal,
     RecentPurchasePopup,
     ExitModal,
