@@ -63,8 +63,8 @@
             },
             "default_currency": {
                 "id": 1,
-                "code": "USD",
-                "symbol": "$",
+                "code": "INR",
+                "symbol": "₹",
                 "no_of_decimal": 2,
                 "exchange_rate": 1,
                 "symbol_position": "before_price",

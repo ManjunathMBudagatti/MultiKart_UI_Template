@@ -9617,9 +9617,9 @@
         },
         {
             "id": 12,
-            "name": "Boyfriend Shirts",
-            "short_description": "Boyfriend shirts are oversized, relaxed-fit shirts originally inspired by men's fashion. They offer a comfortable and effortlessly chic look, often characterized by a loose silhouette and rolled-up sleeves. Perfect for a casual yet stylish vibe",
-            "description": "<p><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Boyfriend shirts are a contemporary take on classic men's shirts, reimagined for the modern woman. Characterized by their relaxed and oversized fit, these shirts exude a casual yet effortlessly chic vibe. Drawing inspiration from the idea of borrowing clothing from a boyfriend's wardrobe, they typically feature a loose silhouette with dropped shoulders and longer hemlines, perfect for achieving that relaxed, borrowed-from-the-boys look.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Crafted from soft and comfortable fabrics such as cotton or linen, boyfriend shirts offer a luxurious feel against the skin. They often come in a variety of styles, including button-downs, flannels, or denim, offering versatility for different occasions and personal preferences. Rolled-up sleeves and a slightly slouchy fit add to the laid-back aesthetic, making them ideal for casual outings, relaxed weekends, or even as a stylish layering piece.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">One of the key features of boyfriend shirts is their versatility. They can be styled in numerous ways to suit different looks and moods. For a casual day out, pair them with jeans or leggings for a comfortable yet put-together ensemble. Alternatively, dress them up with a statement belt and heels for a more polished look that effortlessly transitions from day to night.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Whether you prefer a classic white boyfriend shirt for timeless elegance or opt for a plaid or striped version for a hint of playful charm, these shirts offer endless styling possibilities. Their relaxed and easygoing nature makes them a staple in any fashion-forward wardrobe, offering comfort without compromising on style. Boyfriend shirts are a wardrobe essential for those who appreciate the fusion of comfort, versatility, and effortless style in their everyday attire.</span></span></p>",
+            "name": "Slider Buns",
+            "short_description": "Slider buns are soft, mini-sized bread rolls perfect for small sandwiches, appetizers, and party snacks. Their fluffy texture and slight sweetness make them an ideal choice for sliders, bite-sized burgers, and bakery-style creations.",
+            "description": "<p><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Slider buns are delightfully soft and pillowy miniature rolls crafted to elevate any small-sized sandwich or appetizer. Designed with a light and airy texture, these buns provide the perfect foundation for creating flavorful sliders, bite-sized burgers, or gourmet bakery-style snacks.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Made using high-quality ingredients and baked to golden perfection, slider buns offer the ideal balance of subtle sweetness and tenderness. Their smooth, evenly rounded shape and soft crumb make them a versatile choice for both savory and sweet fillings. Whether you’re assembling mini chicken sandwiches, pulled meat sliders, or dessert-style creations, these buns enhance every recipe with their delicate texture.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Slider buns are perfect for parties, catering setups, picnics, or everyday snacking. Their convenient size makes them easy to serve and enjoy, while their bakery-fresh softness ensures each bite is satisfying and flavorful. They can be lightly toasted for added crispness, brushed with butter for extra richness, or left soft for a melt-in-the-mouth experience.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Whether you're hosting an event or preparing homemade sliders for your family, these mini buns bring both convenience and premium quality to your kitchen. Slider buns are a beloved bakery essential, offering the perfect canvas for endless culinary creativity.</span></span></p>",
             "type": "simple",
             "unit": "1 item",
             "weight": 250,
@@ -9643,8 +9643,8 @@
             "sku": "FASH15",
             "is_random_related_products": 0,
             "stock_status": "in_stock",
-            "meta_title": "Boyfriend Shirts",
-            "meta_description": "Crafted from soft and comfortable fabrics such as cotton or linen, boyfriend shirts offer a luxurious feel against the skin. They often come in a variety of styles, including button-downs, flannels, or denim, offering versatility for different occasions and personal preferences. Rolled-up sleeves and a slightly slouchy fit add to the laid-back aesthetic, making them ideal for casual outings, relaxed weekends, or even as a stylish layering piece.\n\nOne of the key features of boyfriend shirts is their versatility. They can be styled in numerous ways to suit different looks and moods. For a casual day out, pair them with jeans or leggings for a comfortable yet put-together ensemble. Alternatively, dress them up with a statement belt and heels for a more polished look that effortlessly transitions from day to night.\n\nWhether you prefer a classic white boyfriend shirt for timeless elegance or opt for a plaid or striped version for a hint of playful charm, these shirts offer endless styling possibilities. Their relaxed and easygoing nature makes them a staple in any fashion-forward wardrobe, offering comfort without compromising on style. Boyfriend shirts are a wardrobe essential for those who appreciate the fusion of comfort, versatility, and effortless style in their everyday attire.",
+            "meta_title": "Fresh Slider Buns Soft Mini Buns for Sliders & Snacks",
+            "meta_description": "Our freshly baked slider buns are soft, fluffy, and perfectly sized for bite-sized sandwiches, burgers, and party snacks. Made with high-quality ingredients and baked to a golden finish, these mini buns offer a slightly sweet, tender texture that complements both savory and sweet fillings. Ideal for catering, picnics, family gatherings, or everyday snacking, slider buns provide endless versatility for creative recipes. Enjoy them toasted, buttered, or just as they are—these bakery-style buns elevate every dish with delicious simplicity.",
             "product_thumbnail_id": 49,
             "product_meta_image_id": "49",
             "size_chart_image": {
@@ -9721,7 +9721,7 @@
                     "file_name": "fashion_172.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/52/fashion_172.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image4.png"
                 },
                 {
                     "id": 51,
@@ -9730,7 +9730,7 @@
                     "file_name": "fashion_171.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/51/fashion_171.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image4.png"
                 }
             ],
             "attributes": [],
@@ -10239,9 +10239,9 @@
         },
         {
             "id": 14,
-            "name": "Cami Tank Top",
-            "short_description": "Stay cool and stylish with our Cami Tank Top. Made from breathable fabric, it's perfect for layering or wearing solo on hot days. Its flattering fit and versatile design make it a wardrobe essential for any season.",
-            "description": "<p><span style=\"color:var(--tw-prose-body);\"><span style=\"background-color:rgb(255, 255, 255);\">Introducing our sleek and versatile Cami Tank Top, the quintessential addition to your wardrobe for effortless style and comfort. Crafted from a luxuriously soft and breathable fabric blend, this tank top promises all-day wearability whether you're running errands or enjoying a night out with friends. Its flattering silhouette features a gently curved neckline and adjustable spaghetti straps for a customized fit. Perfect for layering or wearing on its own, this cami is a wardrobe staple that seamlessly transitions from season to season. <br><br>Available in a range of timeless colors, it pairs effortlessly with everything from your favorite denim to tailored trousers, making it a versatile piece for any occasion. Elevate your everyday look with the understated elegance of our Cami Tank Top and embrace effortless style with every wear.</span></span></p><p></p>",
+            "name": "Focaccia",
+            "short_description": "Delight in our artisan Focaccia—soft, airy, and infused with rich olive oil. Perfectly baked with a golden crust, this Italian flatbread is ideal for sandwiches, dipping, or enjoying on its own.",
+            "description": "<p><span style=\"color:var(--tw-prose-body);\"><span style=\"background-color:rgb(255, 255, 255);\">Experience the authentic taste of Italy with our freshly baked Focaccia, a soft and flavorful flatbread crafted with premium ingredients and traditional techniques. Each loaf is enriched with extra-virgin olive oil, giving it a tender crumb, aromatic flavor, and beautifully golden crust. The signature dimples across the surface allow the olive oil and herbs to seep in, creating a perfectly seasoned, melt-in-the-mouth bite every time.<br><br>This versatile bread is ideal for a variety of uses—enjoy it as a side with soups and pasta, use it as a base for gourmet sandwiches, or serve it warm with olive oil and balsamic for a classic Italian appetizer. Its rich aroma and airy texture make it a standout addition to any meal or bakery spread.<br><br>Whether you prefer it topped with herbs, garlic, or sea salt, our Focaccia brings rustic charm and delicious simplicity to your table. It's a must-have for bread lovers and a delightful way to elevate everyday dining with authentic bakery craftsmanship.</span></span></p>",
             "type": "classified",
             "unit": "1 Item",
             "weight": 100,
@@ -10265,8 +10265,8 @@
             "sku": "FASH11",
             "is_random_related_products": 1,
             "stock_status": "in_stock",
-            "meta_title": "Cami Tank Top",
-            "meta_description": "Stay cool and stylish with our Cami Tank Top. Made from breathable fabric, it's perfect for layering or wearing solo on hot days. Its flattering fit and versatile design make it a wardrobe essential for any season.",
+            "meta_title": "Fresh Artisan Focaccia – Soft, Olive-Oil Rich Italian Bread",
+            "meta_description": "Enjoy our freshly baked Focaccia, a soft and airy Italian flatbread enriched with olive oil and topped with aromatic herbs. Perfect for sandwiches, dipping, appetizers, or enjoying warm on its own. Crafted with traditional techniques for authentic flavor and a golden, fragrant crust.",
             "product_thumbnail_id": 58,
             "product_meta_image_id": "58",
             "size_chart_image_id": null,
@@ -10364,7 +10364,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:11:23.000000Z",
                             "asset_url": "/storage/60/fashion_1922.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image6.png"
                         },
                         {
                             "id": 59,
@@ -10375,7 +10375,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:11:23.000000Z",
                             "asset_url": "/storage/59/fashion_1921.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image6.png"
                         },
                         {
                             "id": 58,
@@ -10386,7 +10386,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:11:23.000000Z",
                             "asset_url": "/storage/58/fashion_1923.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image6.png"
                         }
                     ],
                     "attribute_values": [
@@ -14026,9 +14026,9 @@
         },
         {
             "id": 15,
-            "name": "Classic Jacket11",
-            "short_description": "Elevate your style with our Classic Jacket. Timeless design meets modern comfort, crafted with premium materials for durability. Versatile for any occasion, this jacket is your ultimate wardrobe staple.",
-            "description": "<p>Our Classic Jacket. Seamlessly blending sophistication with comfort, this meticulously crafted garment is a must-have staple for every wardrobe. Designed with precision and tailored to perfection, our jacket exudes a level of refinement that transcends trends and stands the test of time.</p><p>Crafted from high-quality materials, our Classic Jacket offers not only style but also durability. The attention to detail in every stitch ensures a superior fit that flatters every silhouette. Whether you're heading to the office or meeting friends for brunch, this versatile piece effortlessly transitions from day to night with ease.</p><p>What sets our Classic Jacket apart is its ability to enhance any ensemble. Pair it with tailored trousers for a polished office look, or throw it over a simple dress for a touch of sophistication. The timeless design makes it a versatile addition to your wardrobe, seamlessly complementing both casual and formal attire.</p><p>Beyond its aesthetic appeal, our Classic Jacket prioritizes comfort without compromising on style. The thoughtfully chosen fabric allows for ease of movement, ensuring you feel as good as you look. With its classic silhouette and understated elegance, this jacket is bound to become your go-to choice for any occasion.</p><p>Invest in timeless style with our Classic Jacket and elevate your wardrobe to new heights. Whether you're a trendsetter or a classic connoisseur, this versatile piece is a wardrobe essential that will never go out of style. Embrace sophistication, embrace comfort, and embrace effortless elegance with our Classic Jacket.</p>",
+            "name": "Large Croissant",
+            "short_description": "Enjoy our Large Croissant, a buttery, flaky pastry baked to golden perfection. Light, airy, and irresistibly delicious—perfect for breakfast, brunch, or a delightful anytime treat.",
+            "description": "<p>Indulge in the rich, buttery goodness of our Large Croissant—an artisan pastry crafted with care to deliver the perfect balance of crispness and softness. Baked fresh with premium ingredients, each croissant boasts delicate, flaky layers that melt in your mouth with every bite.</p><p>Our croissants are made using traditional bakery techniques, allowing the dough to rise slowly for maximum flavor and texture. The result is a beautifully golden, airy pastry that is both light and satisfying. Whether enjoyed warm from the oven or paired with your favorite spreads, our Large Croissant elevates any meal with its irresistible aroma and taste.</p><p>This versatile pastry is perfect for breakfast, brunch, or a midday snack. Serve it with butter, jam, chocolate spread, or transform it into a gourmet sandwich for a more savory option. Its generous size makes it a delightful centerpiece for any bakery platter or café-style meal.</p><p>Every croissant is baked with precision to ensure consistent quality, from its tender interior to its crisp exterior. Its classic shape and rich buttery flavor bring a touch of French bakery charm to your table, making it a favorite among pastry lovers.</p><p>Treat yourself to the timeless elegance and deliciousness of our Large Croissant. Simple, satisfying, and crafted with passion—this pastry is a bakery essential that never goes out of style.</p>",
             "type": "simple",
             "unit": "1 Item",
             "weight": 28,
@@ -14120,7 +14120,7 @@
                     "file_name": "fashion_73.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/72/fashion_73.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image35.png"
                 },
                 {
                     "id": 71,
@@ -14129,7 +14129,7 @@
                     "file_name": "fashion_72.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/71/fashion_72.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image35.png"
                 },
                 {
                     "id": 70,
@@ -14381,9 +14381,9 @@
         },
         {
             "id": 16,
-            "name": "Versatile Shacket",
-            "short_description": "Introducing the ultimate fusion of style and comfort: the Shacket Combo. This versatile garment combines the warmth of a jacket with the laid-back feel of a shirt, perfect for effortless everyday wear.",
-            "description": "<p>Our exclusive Shacket Combo, the ultimate solution to your style conundrums! Combining the best of both worlds - shirts and jackets - our Shacket Combo offers unparalleled versatility and fashion-forward flair. Crafted from premium fabrics, each piece in this combo is designed to deliver supreme comfort without compromising on style.</p><p>Whether you're dressing up for a casual brunch with friends or heading to a weekend getaway, our Shacket Combo effortlessly transitions from day to night, making it a wardrobe staple for every occasion. The timeless design and impeccable tailoring ensure a flattering fit for all body types, while the subtle detailing adds a touch of sophistication to your ensemble.</p><p>Gone are the days of agonizing over what to wear! With our Shacket Combo, you can effortlessly elevate any outfit with minimal effort. Pair it with your favorite denim for a laid-back vibe or layer it over a dress for a chic, on-trend look. The possibilities are endless!</p><p>But our Shacket Combo isn't just about style - it's about practicality too. Designed to withstand the rigors of everyday wear, each piece is durable and easy to maintain, so you can enjoy your new favorite wardrobe staple for years to come.</p><p>Whether you're a fashion enthusiast looking to make a statement or someone who appreciates the simplicity of classic style, our Shacket Combo has something for everyone. It's the perfect fusion of fashion and function, allowing you to express your unique sense of style with confidence and ease.</p><p>Upgrade your wardrobe today with our Shacket Combo and experience the epitome of style and comfort. With its timeless appeal and effortless versatility, it's bound to become your go-to choice for any occasion. Don't miss out on the opportunity to elevate your look and make a lasting impression wherever you go.</p>",
+            "name": "Croissant Small",
+            "short_description": "Enjoy our Small Croissant—light, flaky, buttery, and perfectly sized for a quick snack, breakfast bite, or a delightful pastry treat anytime.",
+            "description": "<p>Discover the delicate charm of our Small Croissant, a perfectly crafted pastry that brings the classic bakery experience to every bite. Despite its petite size, this croissant delivers the same rich, buttery flavor and flaky layers you’d expect from a traditional French-style pastry.</p><p>Each croissant is carefully prepared using premium ingredients and traditional folding techniques, creating airy, golden layers that offer a crisp exterior and a soft, tender interior. Its smaller size makes it ideal for light breakfasts, café-style platters, kid-friendly snacks, or pairing with coffee or tea.</p><p>Whether you enjoy it plain, warmed, or with a touch of butter, jam, or chocolate spread, our Small Croissant adds a moment of simple indulgence to any occasion. It’s also perfect for bakery assortments, catering trays, and elegant brunch setups.</p><p>Baked fresh with attention to detail, the Small Croissant offers consistent quality, a delightful aroma, and the comforting taste of freshly made pastry. Its compact form makes it convenient, versatile, and easy to enjoy on the go.</p><p>Treat yourself or your guests to the timeless pleasure of our Small Croissant—a bite-sized masterpiece that delivers elegance, flavor, and the true essence of artisanal baking.</p>",
             "type": "simple",
             "unit": "1 Item",
             "weight": 65,
@@ -14465,7 +14465,7 @@
                 "file_name": "fashion_81.jpg",
                 "mime_type": "image/jpeg",
                 "asset_url": "/storage/79/fashion_81.jpg",
-                "original_url": "assets/images/placeholder/image8.png"
+                "original_url": "assets/images/placeholder/product4.png"
             },
             "product_galleries": [
                 {
@@ -14475,7 +14475,7 @@
                     "file_name": "fashion_83.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/81/fashion_83.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/product4.png"
                 },
                 {
                     "id": 80,
@@ -14484,7 +14484,7 @@
                     "file_name": "fashion_82.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/80/fashion_82.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/product4.png"
                 },
                 {
                     "id": 79,
@@ -14493,7 +14493,7 @@
                     "file_name": "fashion_81.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/79/fashion_81.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/product4.png"
                 }
             ],
             "attributes": [],
@@ -15047,9 +15047,9 @@
         },
         {
             "id": 18,
-            "name": "Scarlet Stunner",
-            "short_description": "Scarlet Stunner: A bold and captivating fragrance that leaves a lasting impression. With vibrant notes of citrus, spicy florals, and warm vanilla, it's an irresistible scent for the confident and adventurous.",
-            "description": "<p>Scarlet Stunner, the epitome of glamour encapsulated in a single product. Whether you're preparing for a night out on the town or seeking to captivate attention at a daytime event, this revolutionary beauty essential promises to redefine your look with its unparalleled vibrancy and lasting allure.Scarlet Stunner isn't just another lipstick; it's a statement piece for the modern trendsetter.</p><p>Crafted with precision and infused with a blend of high-quality ingredients, each shade delivers an intense burst of color that demands attention from across the room. From the sultry depths of crimson to the audacious brilliance of scarlet, our carefully curated palette offers a spectrum of shades to suit every mood and occasion.What sets Scarlet Stunner apart is its exceptional longevity. Say goodbye to frequent touch-ups and hello to a seamless, all-day radiance. Whether you're sipping cocktails with friends or dazzling the crowds on the dance floor, our advanced formula ensures that your look remains flawless from dawn till dusk.But Scarlet Stunner isn't just about aesthetics; it's about empowerment. With each application, you'll feel a surge of confidence coursing through your veins, emboldening you to embrace your individuality and express yourself without reservation. Whether you're a seasoned makeup aficionado or a novice exploring the possibilities of self-expression, Scarlet Stunner welcomes you to a world of limitless creativity and unbridled passion.And the best part? Scarlet Stunner isn't just a beauty product; it's a lifestyle. Join our vibrant community of Scarlet Stunners from around the globe as we celebrate the art of self-expression and empower each other to shine brighter than ever before.</p><p>From exclusive tutorials to behind-the-scenes access, our platform offers a wealth of resources to help you unlock your full potential and unleash your inner diva.So why settle for ordinary when you can be extraordinary? Elevate your look, ignite your confidence, and unleash your inner stunner with Scarlet Stunner. The world is your stage\u00e2\u20ac\u201dstep into the spotlight and let your beauty shine!</p>",
+            "name": "Pain au Chocolat Mini",
+            "short_description": "Our Mini Pain au Chocolat is a delightful bite-sized pastry filled with rich chocolate and wrapped in flaky, buttery layers. Perfect for snacking, breakfast platters, or adding a touch of French indulgence to any moment.",
+            "description": "<p>Experience pure delight with our Mini Pain au Chocolat—an irresistible French pastry crafted in a perfectly petite size. Each mini pastry features delicate, buttery layers made from traditional laminated dough, baked to a golden, flaky finish that melts effortlessly in every bite.</p><p>At the heart of each mini pastry lies a smooth, rich chocolate filling that adds the perfect touch of sweetness. The balance of crisp exterior, soft airy layers, and indulgent chocolate makes this pastry a favorite for both children and adults.</p><p>Our Mini Pain au Chocolat is ideal for breakfast spreads, high-tea platters, café offerings, and on-the-go treats. Whether enjoyed warm, paired with coffee, or served as part of a bakery assortment, these pastries bring a touch of European elegance to any occasion.</p><p>Baked with high-quality ingredients and artisanal technique, they offer consistent flavor, texture, and irresistible charm. Their convenient mini size makes them perfect for sharing—though you may want to keep a few extra for yourself!</p><p>Bring home the magic of French baking with our Mini Pain au Chocolat—small in size, big in flavor, and the perfect indulgence for any moment.</p>",
             "type": "classified",
             "unit": "1 Item",
             "weight": 34,
@@ -15073,8 +15073,8 @@
             "sku": "FASH10",
             "is_random_related_products": 0,
             "stock_status": "in_stock",
-            "meta_title": "Scarlet Stunner",
-            "meta_description": "Scarlet Stunner: A bold and captivating fragrance that leaves a lasting impression. With vibrant notes of citrus, spicy florals, and warm vanilla, it's an irresistible scent for the confident and adventurous.",
+            "meta_title": "Mini Pain au Chocolat – Bite-Sized French Chocolate Pastries",
+            "meta_description": "Enjoy our Mini Pain au Chocolat, crafted with flaky buttery layers and filled with rich chocolate. Perfect for breakfast, snack platters, café menus, and moments of sweet indulgence. A delightful taste of authentic French baking in every bite.",
             "product_thumbnail_id": 95,
             "product_meta_image_id": "95",
             "size_chart_image_id": null,
@@ -15205,7 +15205,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:25:40.000000Z",
                         "asset_url": "/storage/95/fashion_91.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image12.png"
                     },
                     "variation_galleries": [],
                     "attribute_values": [
@@ -15256,7 +15256,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:25:40.000000Z",
                         "asset_url": "/storage/95/fashion_91.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image12.png"
                     },
                     "variation_galleries": [],
                     "attribute_values": [
@@ -15307,7 +15307,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:25:40.000000Z",
                         "asset_url": "/storage/95/fashion_91.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image12.png"
                     },
                     "variation_galleries": [],
                     "attribute_values": [
@@ -15336,7 +15336,7 @@
                 "file_name": "fashion_91.jpg",
                 "mime_type": "image/jpeg",
                 "asset_url": "/storage/95/fashion_91.jpg",
-                "original_url": "assets/images/placeholder/product.png"
+                "original_url": "assets/images/placeholder/image12.png"
             },
             "product_galleries": [
                 {
@@ -15346,7 +15346,7 @@
                     "file_name": "fashion_93.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/97/fashion_93.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image12.png"
                 },
                 {
                     "id": 96,
@@ -15355,7 +15355,7 @@
                     "file_name": "fashion_92.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/96/fashion_92.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image12.png"
                 },
                 {
                     "id": 95,
@@ -15364,7 +15364,7 @@
                     "file_name": "fashion_91.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/95/fashion_91.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image12.png"
                 }
             ],
             "attributes": [
@@ -15645,9 +15645,9 @@
         },
         {
             "id": 19,
-            "name": "Chic Crop Top111",
-            "short_description": "Elevate your style with our chic crop top, designed to turn heads wherever you go. Crafted with comfort and sophistication in mind, it's the perfect statement piece for any occasion. Flaunt your fashion sense with confidence in this trendy essential.",
-            "description": "<p>Elevate your casual wardrobe with our Chic Crop Top, a must-have piece for fashion-forward individuals. Crafted with premium materials, this crop top offers both style and comfort. Its cropped silhouette adds a trendy touch to any outfit, perfect for pairing with high-waisted jeans or skirts for a sleek and sophisticated look.</p><p>The Chic Crop Top features a flattering fit that accentuates your curves while providing freedom of movement. Whether you're hitting the town with friends or lounging at home, this versatile top effortlessly transitions from day to night. Its minimalist design is enhanced with subtle details, making it a timeless addition to your wardrobe.</p><p>Available in a range of colors to suit your personal style, this crop top is a staple piece for any fashion enthusiast. Embrace confidence and express your individuality with the Chic Crop Top, your go-to choice for effortless style.</p>",
+            "name": "Sandwich Loaf",
+            "short_description": "Our Sandwich Loaf is soft, fresh, and perfectly baked for everyday meals. Ideal for sandwiches, toast, and quick snacks, this classic loaf offers a light, fluffy texture and delicious taste in every slice.",
+            "description": "<p>Enjoy the simplicity and freshness of our Sandwich Loaf, a bakery essential crafted for daily convenience and deliciousness. Made with high-quality ingredients, this loaf features a soft crumb and smooth texture, making it perfect for a wide range of meals—from breakfast toast to hearty sandwiches.</p><p>Each slice is evenly shaped, allowing for easy spreading, stacking, and grilling. Whether paired with butter and jam, layered with savory fillings, or turned into a crispy grilled sandwich, our Sandwich Loaf delivers consistent flavor and softness in every bite.</p><p>Ideal for families, cafés, and meal prep, this loaf offers versatility and comfort in its purest form. Its mild, balanced taste complements both sweet and savory toppings, making it a reliable choice for any kitchen.</p><p>Baked to golden perfection and packed with freshness, our Sandwich Loaf brings wholesome goodness to your table. It’s the perfect everyday bread for anyone who enjoys soft, satisfying slices that elevate simple meals with quality and care.</p>",
             "type": "classified",
             "unit": "1 Item",
             "weight": 100,
@@ -15671,8 +15671,8 @@
             "sku": "FASH21",
             "is_random_related_products": 0,
             "stock_status": "in_stock",
-            "meta_title": "Chic Crop Top",
-            "meta_description": "Elevate your style with our chic crop top, designed to turn heads wherever you go. Crafted with comfort and sophistication in mind, it's the perfect statement piece for any occasion. Flaunt your fashion sense with confidence in this trendy essential.",
+            "meta_title": "Fresh Sandwich Loaf – Soft & Fluffy Everyday Bread",
+            "meta_description": "Enjoy our freshly baked Sandwich Loaf, soft, fluffy, and perfect for sandwiches, toast, and quick snacks. Crafted with high-quality ingredients for consistent freshness and delicious taste in every slice.",
             "product_thumbnail_id": 84,
             "product_meta_image_id": "84",
             "size_chart_image_id": null,
@@ -15683,7 +15683,7 @@
             "social_share": 1,
             "encourage_order": 1,
             "encourage_view": 1,
-            "slug": "chic-crop-top",
+            "slug": "Sandwich Loaf",
             "status": 1,
             "store_id": 4,
             "created_by_id": "1",
@@ -15724,7 +15724,7 @@
             "variations": [
                 {
                     "id": 11,
-                    "name": "Chic Crop Top (Brown)",
+                    "name": "Sandwich Loaf (Brown)",
                     "price": 10,
                     "quantity": 45,
                     "stock_status": "in_stock",
@@ -15752,7 +15752,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:24:57.000000Z",
                         "asset_url": "/storage/84/fashion_1611.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image15.png"
                     },
                     "variation_galleries": [
                         {
@@ -15764,7 +15764,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:24:57.000000Z",
                             "asset_url": "/storage/85/fashion_1612.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 84,
@@ -15775,7 +15775,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:24:57.000000Z",
                             "asset_url": "/storage/84/fashion_1611.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 83,
@@ -15786,7 +15786,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:24:57.000000Z",
                             "asset_url": "/storage/83/fashion_1613.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         }
                     ],
                     "attribute_values": [
@@ -15809,7 +15809,7 @@
                 },
                 {
                     "id": 12,
-                    "name": "Chic Crop Top (Organge)",
+                    "name": "Sandwich Loaf(Organge)",
                     "price": 15,
                     "quantity": 24,
                     "stock_status": "in_stock",
@@ -15837,7 +15837,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:25:12.000000Z",
                         "asset_url": "/storage/87/fashion_1621.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image15.png"
                     },
                     "variation_galleries": [
                         {
@@ -15849,7 +15849,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:12.000000Z",
                             "asset_url": "/storage/89/fashion_1623.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 88,
@@ -15860,7 +15860,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:12.000000Z",
                             "asset_url": "/storage/88/fashion_1622.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 87,
@@ -15871,7 +15871,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:12.000000Z",
                             "asset_url": "/storage/87/fashion_1621.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         }
                     ],
                     "attribute_values": [
@@ -15894,7 +15894,7 @@
                 },
                 {
                     "id": 13,
-                    "name": "Chic Crop Top1111",
+                    "name": "Sandwich Loaf",
                     "price": 15,
                     "quantity": 50,
                     "stock_status": "in_stock",
@@ -15922,7 +15922,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:25:26.000000Z",
                         "asset_url": "/storage/91/fashion_1631.jpg",
-                        "original_url": "assets/images/placeholder/image7.png"
+                        "original_url": "assets/images/placeholder/image15.png"
                     },
                     "variation_galleries": [
                         {
@@ -15934,7 +15934,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:26.000000Z",
                             "asset_url": "/storage/93/fashion_1633.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 92,
@@ -15945,7 +15945,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:26.000000Z",
                             "asset_url": "/storage/92/fashion_1632.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 91,
@@ -15956,7 +15956,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:26.000000Z",
                             "asset_url": "/storage/91/fashion_1631.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         }
                     ],
                     "attribute_values": [
@@ -15985,7 +15985,7 @@
                 "file_name": "fashion_1611.jpg",
                 "mime_type": "image/jpeg",
                 "asset_url": "/storage/84/fashion_1611.jpg",
-                "original_url": "assets/images/placeholder/product.png"
+                "original_url": "assets/images/placeholder/image15.png"
             },
             "product_galleries": [
                 {
@@ -15995,7 +15995,7 @@
                     "file_name": "fashion_1631.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/91/fashion_1631.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image15.png"
                 },
                 {
                     "id": 87,
@@ -16004,7 +16004,7 @@
                     "file_name": "fashion_1621.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/87/fashion_1621.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image15.png"
                 },
                 {
                     "id": 84,
@@ -16013,7 +16013,7 @@
                     "file_name": "fashion_1611.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/84/fashion_1611.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image15.png"
                 }
             ],
             "attributes": [
@@ -16664,9 +16664,9 @@
         },
         {
             "id": 21,
-            "name": "Chic Denim2",
-            "short_description": "Elevate your style with timeless sophistication. Crafted from premium denim, our collection offers versatile pieces designed to effortlessly complement your wardrobe. From classic jeans to trendy jackets, embrace fashion with flair.",
-            "description": "<p>Dive into the world of timeless fashion with Chic Denim, where classic sophistication meets contemporary style. Our collection embodies the essence of denim, redefining it with an infusion of elegance and charm. Crafted with meticulous attention to detail, each piece in our range exudes an effortless chic that transcends trends and seasons.Whether you're dressing up for a night out or keeping it casual for brunch with friends, Chic Denim offers versatility without compromising on style. From tailored jackets to sleek jeans, our curated selection is designed to complement every aspect of your lifestyle.Experience the luxurious comfort of premium denim, carefully selected to ensure durability and a flattering fit.</p><p>Our fabrics are sourced from the finest mills, guaranteeing a superior quality that withstands the test of time.At Chic Denim, we understand the power of a well-fitted garment to boost confidence and make a statement. That's why our designs are crafted to accentuate your silhouette, highlighting your best features while providing unparalleled comfort.Embrace the spirit of individuality with our range of washes and finishes, from classic indigo to vintage-inspired fades. Each piece tells a unique story, allowing you to express your personality with every wear.Beyond fashion, Chic Denim is committed to sustainability and ethical practices. We prioritize eco-friendly production methods and support initiatives that promote a healthier planet and empower communities.Join us on a journey of timeless elegance and effortless style with Chic Denim.</p><p>Discover the perfect balance of sophistication and comfort, reimagining denim for the modern connoisseur. Redefine your wardrobe with pieces that stand the test of time and elevate your everyday look.</p>",
+            "name": "Sandwich Loaf Eggless",
+            "short_description": "Soft, fresh, and perfectly sliced—our Eggless Sandwich Loaf is crafted for smooth spreads, hearty fillings, and everyday meals. A light and fluffy loaf ideal for all your sandwich needs.",
+            "description": "<p>Experience the wholesome goodness of our Eggless Sandwich Loaf—crafted to deliver exceptional softness, freshness, and flavor in every slice. Made without eggs, this loaf is perfect for those seeking delicious bakery-quality bread with dietary preferences in mind.</p><p>Each loaf is baked with premium ingredients, ensuring a fine, even crumb that makes spreading, stacking, and slicing effortless. Its tender texture and mild flavor make it ideal for a wide range of sandwiches, from classic veg cheese to gourmet grilled creations. Whether you're preparing breakfast toast, lunch-box sandwiches, or a hearty snack, our Eggless Sandwich Loaf adapts beautifully to every need.</p><p>Carefully baked to golden perfection, the loaf offers consistent softness from edge to center. Its uniform slices maintain shape and structure, making it perfect for toasting, grilling, and layering with your favorite fillings. Pair it with butter, jam, spreads, or savory toppings—the possibilities are endless.</p><p>Designed with everyday convenience in mind, this loaf brings bakery freshness straight to your table. Light, fluffy, and versatile, it’s a staple for households, cafés, and culinary enthusiasts alike.</p><p>Enjoy the purity and comfort of our Eggless Sandwich Loaf—a classic bakery essential crafted to elevate every meal with simplicity and taste.</p>",
             "type": "simple",
             "unit": "1 Item",
             "weight": 42,
@@ -16758,7 +16758,7 @@
                     "file_name": "fashion_103.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/105/fashion_103.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image15.png"
                 },
                 {
                     "id": 104,
@@ -16767,7 +16767,7 @@
                     "file_name": "fashion_102.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/104/fashion_102.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image15.png"
                 },
                 {
                     "id": 103,
@@ -16776,7 +16776,7 @@
                     "file_name": "fashion_101.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/103/fashion_101.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image15.png"
                 }
             ],
             "attributes": [],
@@ -156080,7 +156080,7 @@
                                 "created_by_id": "1",
                                 "created_at": "2025-05-04T12:24:57.000000Z",
                                 "asset_url": "/storage/84/fashion_1611.jpg",
-                                "original_url": "assets/images/placeholder/product.png"
+                                "original_url": "assets/images/placeholder/image15.png"
                             },
                             "variation_galleries": [
                                 {
@@ -156092,7 +156092,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:24:57.000000Z",
                                     "asset_url": "/storage/85/fashion_1612.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 84,
@@ -156103,7 +156103,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:24:57.000000Z",
                                     "asset_url": "/storage/84/fashion_1611.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 83,
@@ -156114,7 +156114,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:24:57.000000Z",
                                     "asset_url": "/storage/83/fashion_1613.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 }
                             ],
                             "attribute_values": [
@@ -156165,7 +156165,7 @@
                                 "created_by_id": "1",
                                 "created_at": "2025-05-04T12:25:12.000000Z",
                                 "asset_url": "/storage/87/fashion_1621.jpg",
-                                "original_url": "assets/images/placeholder/product.png"
+                                "original_url": "assets/images/placeholder/image15.png"
                             },
                             "variation_galleries": [
                                 {
@@ -156177,7 +156177,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:12.000000Z",
                                     "asset_url": "/storage/89/fashion_1623.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 88,
@@ -156188,7 +156188,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:12.000000Z",
                                     "asset_url": "/storage/88/fashion_1622.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 87,
@@ -156199,7 +156199,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:12.000000Z",
                                     "asset_url": "/storage/87/fashion_1621.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 }
                             ],
                             "attribute_values": [
@@ -156250,7 +156250,7 @@
                                 "created_by_id": "1",
                                 "created_at": "2025-05-04T12:25:26.000000Z",
                                 "asset_url": "/storage/91/fashion_1631.jpg",
-                                "original_url": "assets/images/placeholder/product.png"
+                                "original_url": "assets/images/placeholder/image15.png"
                             },
                             "variation_galleries": [
                                 {
@@ -156262,7 +156262,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:26.000000Z",
                                     "asset_url": "/storage/93/fashion_1633.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 92,
@@ -156273,7 +156273,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:26.000000Z",
                                     "asset_url": "/storage/92/fashion_1632.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 91,
@@ -156284,7 +156284,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:26.000000Z",
                                     "asset_url": "/storage/91/fashion_1631.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 }
                             ],
                             "attribute_values": [
@@ -156315,7 +156315,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:24:57.000000Z",
                         "asset_url": "/storage/84/fashion_1611.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image15.png"
                     },
                     "product_galleries": [
                         {
@@ -156327,7 +156327,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:26.000000Z",
                             "asset_url": "/storage/91/fashion_1631.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 87,
@@ -156338,7 +156338,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:25:12.000000Z",
                             "asset_url": "/storage/87/fashion_1621.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         },
                         {
                             "id": 84,
@@ -156349,7 +156349,7 @@
                             "created_by_id": "1",
                             "created_at": "2025-05-04T12:24:57.000000Z",
                             "asset_url": "/storage/84/fashion_1611.jpg",
-                            "original_url": "assets/images/placeholder/product.png"
+                            "original_url": "assets/images/placeholder/image15.png"
                         }
                     ],
                     "attributes": [
@@ -157527,7 +157527,7 @@
                             "variations": [
                                 {
                                     "id": 11,
-                                    "name": "Chic Crop Top (Brown)",
+                                    "name": "Sandwich Loaf(Brown)",
                                     "price": 10,
                                     "quantity": 45,
                                     "stock_status": "in_stock",
@@ -157555,7 +157555,7 @@
                                         "created_by_id": "1",
                                         "created_at": "2025-05-04T12:24:57.000000Z",
                                         "asset_url": "/storage/84/fashion_1611.jpg",
-                                        "original_url": "assets/images/placeholder/product.png"
+                                        "original_url": "assets/images/placeholder/image15.png"
                                     },
                                     "variation_galleries": [
                                         {
@@ -157567,7 +157567,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:24:57.000000Z",
                                             "asset_url": "/storage/85/fashion_1612.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         },
                                         {
                                             "id": 84,
@@ -157578,7 +157578,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:24:57.000000Z",
                                             "asset_url": "/storage/84/fashion_1611.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         },
                                         {
                                             "id": 83,
@@ -157589,7 +157589,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:24:57.000000Z",
                                             "asset_url": "/storage/83/fashion_1613.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         }
                                     ],
                                     "attribute_values": [
@@ -157640,7 +157640,7 @@
                                         "created_by_id": "1",
                                         "created_at": "2025-05-04T12:25:12.000000Z",
                                         "asset_url": "/storage/87/fashion_1621.jpg",
-                                        "original_url": "assets/images/placeholder/product.png"
+                                        "original_url": "assets/images/placeholder/image15.png"
                                     },
                                     "variation_galleries": [
                                         {
@@ -157652,7 +157652,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:25:12.000000Z",
                                             "asset_url": "/storage/89/fashion_1623.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         },
                                         {
                                             "id": 88,
@@ -157663,7 +157663,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:25:12.000000Z",
                                             "asset_url": "/storage/88/fashion_1622.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         },
                                         {
                                             "id": 87,
@@ -157674,7 +157674,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:25:12.000000Z",
                                             "asset_url": "/storage/87/fashion_1621.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         }
                                     ],
                                     "attribute_values": [
@@ -157725,7 +157725,7 @@
                                         "created_by_id": "1",
                                         "created_at": "2025-05-04T12:25:26.000000Z",
                                         "asset_url": "/storage/91/fashion_1631.jpg",
-                                        "original_url": "assets/images/placeholder/product.png"
+                                        "original_url": "assets/images/placeholder/image15.png"
                                     },
                                     "variation_galleries": [
                                         {
@@ -157737,7 +157737,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:25:26.000000Z",
                                             "asset_url": "/storage/93/fashion_1633.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         },
                                         {
                                             "id": 92,
@@ -157748,7 +157748,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:25:26.000000Z",
                                             "asset_url": "/storage/92/fashion_1632.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         },
                                         {
                                             "id": 91,
@@ -157759,7 +157759,7 @@
                                             "created_by_id": "1",
                                             "created_at": "2025-05-04T12:25:26.000000Z",
                                             "asset_url": "/storage/91/fashion_1631.jpg",
-                                            "original_url": "assets/images/placeholder/product.png"
+                                            "original_url": "assets/images/placeholder/image15.png"
                                         }
                                     ],
                                     "attribute_values": [
@@ -157790,7 +157790,7 @@
                                 "created_by_id": "1",
                                 "created_at": "2025-05-04T12:24:57.000000Z",
                                 "asset_url": "/storage/84/fashion_1611.jpg",
-                                "original_url": "assets/images/placeholder/product.png"
+                                "original_url": "assets/images/placeholder/image15.png"
                             },
                             "product_galleries": [
                                 {
@@ -157802,7 +157802,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:26.000000Z",
                                     "asset_url": "/storage/91/fashion_1631.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 87,
@@ -157813,7 +157813,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:25:12.000000Z",
                                     "asset_url": "/storage/87/fashion_1621.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 },
                                 {
                                     "id": 84,
@@ -157824,7 +157824,7 @@
                                     "created_by_id": "1",
                                     "created_at": "2025-05-04T12:24:57.000000Z",
                                     "asset_url": "/storage/84/fashion_1611.jpg",
-                                    "original_url": "assets/images/placeholder/product.png"
+                                    "original_url": "assets/images/placeholder/image15.png"
                                 }
                             ],
                             "attributes": [
@@ -158839,7 +158839,7 @@
                                         "created_by_id": "1",
                                         "created_at": "2025-05-04T12:14:31.000000Z",
                                         "asset_url": "/storage/70/fashion_71.jpg",
-                                        "original_url": "assets/images/placeholder/image7.png"
+                                        "original_url": "assets/images/placeholder/image15.png"
                                     },
                                     "product_galleries": [
                                         {
@@ -160330,7 +160330,7 @@
                                             "variations": [
                                                 {
                                                     "id": 11,
-                                                    "name": "Chic Crop Top (Brown)",
+                                                    "name": "Sandwich Loaf (Brown)",
                                                     "price": 10,
                                                     "quantity": 45,
                                                     "stock_status": "in_stock",
@@ -160358,7 +160358,7 @@
                                                         "created_by_id": "1",
                                                         "created_at": "2025-05-04T12:24:57.000000Z",
                                                         "asset_url": "/storage/84/fashion_1611.jpg",
-                                                        "original_url": "assets/images/placeholder/product.png"
+                                                        "original_url": "assets/images/placeholder/image15.png"
                                                     },
                                                     "variation_galleries": [
                                                         {
@@ -160370,7 +160370,7 @@
                                                             "created_by_id": "1",
                                                             "created_at": "2025-05-04T12:24:57.000000Z",
                                                             "asset_url": "/storage/85/fashion_1612.jpg",
-                                                            "original_url": "assets/images/placeholder/product.png"
+                                                            "original_url": "assets/images/placeholder/image15.png"
                                                         },
                                                         {
                                                             "id": 84,
@@ -160381,7 +160381,7 @@
                                                             "created_by_id": "1",
                                                             "created_at": "2025-05-04T12:24:57.000000Z",
                                                             "asset_url": "/storage/84/fashion_1611.jpg",
-                                                            "original_url": "assets/images/placeholder/product.png"
+                                                            "original_url": "assets/images/placeholder/image15.png"
                                                         },
                                                         {
                                                             "id": 83,
@@ -160392,7 +160392,7 @@
                                                             "created_by_id": "1",
                                                             "created_at": "2025-05-04T12:24:57.000000Z",
                                                             "asset_url": "/storage/83/fashion_1613.jpg",
-                                                            "original_url": "assets/images/placeholder/product.png"
+                                                            "original_url": "assets/images/placeholder/image15.png"
                                                         }
                                                     ],
                                                     "attribute_values": [
@@ -163267,9 +163267,9 @@
         },
         {
             "id": 26,
-            "name": "Backless Crop Top",
-            "short_description": "Elevate your summer style with our Backless Crop Top. Crafted with a flattering cut and breathable fabric, it's perfect for hot days or nights out. Show off your confidence and fashion sense with this versatile piece, designed to make heads turn wherever you go.",
-            "description": "<p>Elevate your summer style with our Backless Crop Top, the perfect blend of chic and sassy. Crafted with a luxuriously soft fabric that drapes effortlessly over your curves, this crop top is designed to keep you cool and comfortable on those sun-soaked days. The daring backless design adds a touch of allure, while the cropped length exudes a trendy vibe, making it a must-have addition to your wardrobe.</p><p>Whether you're lounging by the pool, strolling along the beach, or hitting the town with friends, this versatile top effortlessly transitions from day to night. Pair it with high-waisted shorts for a casual daytime look or dress it up with a flowy skirt for a night out on the town. Available in a range of vibrant colors and timeless neutrals, there's a Backless Crop Top to suit every style.</p><p>Get ready to turn heads and make a statement wherever you go with our Backless Crop Top. Flaunt your confidence and embrace your individuality with this summer essential.</p>",
+            "name": "Brioche Burger Buns",
+            "short_description": "Our Brioche Burger Buns are soft, buttery, and golden, perfect for creating delicious burgers and gourmet sandwiches. Light, fluffy, and slightly sweet, they elevate every meal with classic bakery quality.",
+            "description": "<p>Enjoy the rich, buttery taste of our Brioche Burger Buns, baked to perfection with soft, airy interiors and golden, slightly crisp exteriors. Each bun is crafted using premium ingredients to achieve the perfect balance of flavor and texture, making your burgers or sandwiches truly irresistible.</p><p>These buns are ideal for both casual family meals and gourmet creations. Their tender crumb and slightly sweet flavor complement savory fillings, from classic beef patties to plant-based options, while also pairing beautifully with toppings like cheese, lettuce, tomato, and sauces.</p><p>Perfectly sized and carefully shaped, our Brioche Burger Buns hold their form during grilling or toasting, ensuring every bite is consistent and satisfying. They also work wonderfully for sliders or mini sandwiches, adding a touch of bakery elegance to any occasion.</p><p>Bring the taste of fresh bakery-quality buns to your table with our Brioche Burger Buns—soft, flavorful, and the perfect canvas for your culinary creations.</p>",
             "type": "classified",
             "unit": "1 Item",
             "weight": 100,
@@ -163305,7 +163305,7 @@
             "social_share": 1,
             "encourage_order": 1,
             "encourage_view": 1,
-            "slug": "backless-crop-top",
+            "slug": "Brioche Burger Buns",
             "status": 1,
             "store_id": 4,
             "created_by_id": "1",
@@ -163353,7 +163353,7 @@
             "variations": [
                 {
                     "id": 15,
-                    "name": "Backless Crop Top (Brown)",
+                    "name": "Brioche Burger Buns(Brown)",
                     "price": 12,
                     "quantity": 50,
                     "stock_status": "in_stock",
@@ -163381,7 +163381,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-06T11:09:08.000000Z",
                         "asset_url": "/storage/178/fashion_1511.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image20.png"
                     },
                     "variation_galleries": [],
                     "attribute_values": [
@@ -163404,7 +163404,7 @@
                 },
                 {
                     "id": 16,
-                    "name": "Backless Crop Top (Green)",
+                    "name": "Brioche Burger Buns(Green)",
                     "price": 14,
                     "quantity": 53,
                     "stock_status": "in_stock",
@@ -163432,7 +163432,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-06T11:09:08.000000Z",
                         "asset_url": "/storage/181/fashion_1521.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image20.png"
                     },
                     "variation_galleries": [],
                     "attribute_values": [
@@ -163512,7 +163512,7 @@
                 "file_name": "fashion_1531.jpg",
                 "mime_type": "image/jpeg",
                 "asset_url": "/storage/185/fashion_1531.jpg",
-                "original_url": "assets/images/placeholder/product.png"
+                "original_url": "assets/images/placeholder/image20.png"
             },
             "product_galleries": [
                 {
@@ -163522,7 +163522,7 @@
                     "file_name": "fashion_1531.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/185/fashion_1531.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image20.png"
                 },
                 {
                     "id": 181,
@@ -163531,7 +163531,7 @@
                     "file_name": "fashion_1521.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/181/fashion_1521.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image20.png"
                 },
                 {
                     "id": 178,
@@ -163540,7 +163540,7 @@
                     "file_name": "fashion_1511.jpg",
                     "mime_type": "image/jpeg",
                     "asset_url": "/storage/178/fashion_1511.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image20.png"
                 }
             ],
             "attributes": [
@@ -163726,7 +163726,7 @@
                         "mime_type": "image/png",
                         "file_name": "fashion_category.png",
                         "asset_url": "/storage/31/fashion_category.png",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image20.png"
                     },
                     "category_meta_image": null,
                     "category_icon": {
@@ -163736,7 +163736,7 @@
                         "mime_type": "image/png",
                         "file_name": "fashion.png",
                         "asset_url": "/storage/3797/fashion.png",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image20.png"
                     }
                 },
                 {
@@ -163770,7 +163770,7 @@
                         "mime_type": "image/png",
                         "file_name": "tops.png",
                         "asset_url": "/storage/3589/tops.png",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image20.png"
                     },
                     "category_meta_image": null,
                     "category_icon": null
@@ -163828,9 +163828,9 @@
                 "store_name": "Trendy Fashion",
                 "slug": "trendy-fashion",
                 "product_images": [
-                    "assets/images/placeholder/product.png",
-                    "assets/images/placeholder/product.png",
-                    "assets/images/placeholder/product.png"
+                    "assets/images/placeholder/image20.png",
+                    "assets/images/placeholder/image20.png",
+                    "assets/images/placeholder/image20.png"
                 ],
                 "order_amount": 281,
                 "rating_count": 4.5,

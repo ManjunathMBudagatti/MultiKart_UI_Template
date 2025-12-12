@@ -21,18 +21,15 @@
           <div class="banner-skeleton">
             <div class="skeleton-content">
               <p class="card-text placeholder-glow row g-lg-3 g-0">
-                <span class="col-lg-7 col-9">
-                  <span class="placeholder"></span>
-                </span>
-                <span class="col-lg-9 col-12">
-                  <span class="placeholder"></span>
-                </span>
+                <span class="col-lg-7 col-9"><span class="placeholder"></span></span>
+                <span class="col-lg-9 col-12"><span class="placeholder"></span></span>
               </p>
             </div>
           </div>
         </div>
       </div>
-      } @if(data()?.content?.offer_banner?.banner_2?.status){
+      }
+      @if(data()?.content?.offer_banner?.banner_2?.status){
       <div [ngClass]="data()?.content?.offer_banner?.banner_1?.status ? 'col-6' : 'col-md-12'">
         <div class="position-relative">
           <app-image-link
@@ -43,12 +40,8 @@
           <div class="banner-skeleton">
             <div class="skeleton-content">
               <p class="card-text placeholder-glow row g-lg-3 g-0">
-                <span class="col-lg-7 col-9">
-                  <span class="placeholder"></span>
-                </span>
-                <span class="col-lg-9 col-12">
-                  <span class="placeholder"></span>
-                </span>
+                <span class="col-lg-7 col-9"><span class="placeholder"></span></span>
+                <span class="col-lg-9 col-12"><span class="placeholder"></span></span>
               </p>
             </div>
           </div>
@@ -138,9 +131,11 @@
 <!-- Social Media Section End -->
 
 <!-- Brand Section Start -->
+<!-- Removed
 @if(data()?.content?.brand?.status){
 <section class="section-b-space">
   <app-theme-brand [brandIds]="data()?.content?.brand?.brand_ids || []" />
 </section>
 }
+-->
 <!-- Brand Section End -->
