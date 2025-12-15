@@ -18,7 +18,7 @@ import {
   now,
   setCSSProperty,
   setInnerHTML
-} from "./chunk-I7LF7CRM.js";
+} from "./chunk-CAL2LNTO.js";
 import "./chunk-WDMUDEB6.js";
 
 // node_modules/swiper/modules/virtual.mjs

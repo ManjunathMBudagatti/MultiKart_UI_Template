@@ -13,9 +13,9 @@
             "deleted_at": null,
             "product": {
                 "id": 12,
-                "name": "Boyfriend Shirts",
-                "short_description": "Boyfriend shirts are oversized, relaxed-fit shirts originally inspired by men's fashion. They offer a comfortable and effortlessly chic look, often characterized by a loose silhouette and rolled-up sleeves. Perfect for a casual yet stylish vibe",
-                "description": "<p><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Boyfriend shirts are a contemporary take on classic men's shirts, reimagined for the modern woman. Characterized by their relaxed and oversized fit, these shirts exude a casual yet effortlessly chic vibe. Drawing inspiration from the idea of borrowing clothing from a boyfriend's wardrobe, they typically feature a loose silhouette with dropped shoulders and longer hemlines, perfect for achieving that relaxed, borrowed-from-the-boys look.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Crafted from soft and comfortable fabrics such as cotton or linen, boyfriend shirts offer a luxurious feel against the skin. They often come in a variety of styles, including button-downs, flannels, or denim, offering versatility for different occasions and personal preferences. Rolled-up sleeves and a slightly slouchy fit add to the laid-back aesthetic, making them ideal for casual outings, relaxed weekends, or even as a stylish layering piece.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">One of the key features of boyfriend shirts is their versatility. They can be styled in numerous ways to suit different looks and moods. For a casual day out, pair them with jeans or leggings for a comfortable yet put-together ensemble. Alternatively, dress them up with a statement belt and heels for a more polished look that effortlessly transitions from day to night.</span></span></p><p style=\"text-align:start\"><span style=\"color:rgb(13, 13, 13);\"><span style=\"background-color:rgb(255, 255, 255);\">Whether you prefer a classic white boyfriend shirt for timeless elegance or opt for a plaid or striped version for a hint of playful charm, these shirts offer endless styling possibilities. Their relaxed and easygoing nature makes them a staple in any fashion-forward wardrobe, offering comfort without compromising on style. Boyfriend shirts are a wardrobe essential for those who appreciate the fusion of comfort, versatility, and effortless style in their everyday attire.</span></span></p>",
+                "name": "Focaccia",
+                "short_description": "Delight in our artisan Focaccia—soft, airy, and infused with rich olive oil. Perfectly baked with a golden crust, this Italian flatbread is ideal for sandwiches, dipping, or enjoying on its own.",
+                "description": "<p><span style=\"color:var(--tw-prose-body);\"><span style=\"background-color:rgb(255, 255, 255);\">Experience the authentic taste of Italy with our freshly baked Focaccia, a soft and flavorful flatbread crafted with premium ingredients and traditional techniques. Each loaf is enriched with extra-virgin olive oil, giving it a tender crumb, aromatic flavor, and beautifully golden crust. The signature dimples across the surface allow the olive oil and herbs to seep in, creating a perfectly seasoned, melt-in-the-mouth bite every time.<br><br>This versatile bread is ideal for a variety of uses—enjoy it as a side with soups and pasta, use it as a base for gourmet sandwiches, or serve it warm with olive oil and balsamic for a classic Italian appetizer. Its rich aroma and airy texture make it a standout addition to any meal or bakery spread.<br><br>Whether you prefer it topped with herbs, garlic, or sea salt, our Focaccia brings rustic charm and delicious simplicity to your table. It's a must-have for bread lovers and a delightful way to elevate everyday dining with authentic bakery craftsmanship.</span></span></p>",
                 "type": "simple",
                 "unit": "1 item",
                 "weight": 250,
@@ -99,7 +99,7 @@
                     "created_by_id": "1",
                     "created_at": "2025-05-04T12:02:23.000000Z",
                     "asset_url": "/storage/49/fashion_173.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image6.png"
                 },
                 "product_galleries": [
                     {
@@ -111,7 +111,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:05:19.000000Z",
                         "asset_url": "/storage/52/fashion_172.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image6.png"
                     },
                     {
                         "id": 51,
@@ -122,7 +122,7 @@
                         "created_by_id": "1",
                         "created_at": "2025-05-04T12:05:19.000000Z",
                         "asset_url": "/storage/51/fashion_171.jpg",
-                        "original_url": "assets/images/placeholder/product.png"
+                        "original_url": "assets/images/placeholder/image6.png"
                     }
                 ],
                 "attributes": [],
@@ -4590,7 +4590,7 @@
             },
             "variation": {
                 "id": 48,
-                "name": "Gym Coords Set (Brown)",
+                "name": "Croissant Small",
                 "price": 15,
                 "quantity": 40,
                 "stock_status": "in_stock",
@@ -4618,7 +4618,7 @@
                     "created_by_id": "1",
                     "created_at": "2025-05-10T08:45:03.000000Z",
                     "asset_url": "/storage/927/Sport_1133.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/product4.png"
                 },
                 "variation_galleries": [
                     {
@@ -4658,7 +4658,7 @@
                 "attribute_values": [
                     {
                         "id": 49,
-                        "value": "Brown",
+                        "value": "small",
                         "hex_color": null,
                         "slug": "brown",
                         "attribute_id": "13",
@@ -8434,7 +8434,7 @@
             },
             "variation": {
                 "id": 8,
-                "name": "Cami Tank Top (Blue)",
+                "name": "Slider Buns",
                 "price": 15,
                 "quantity": 45,
                 "stock_status": "in_stock",
@@ -8462,7 +8462,7 @@
                     "created_by_id": "1",
                     "created_at": "2025-05-04T12:11:23.000000Z",
                     "asset_url": "/storage/58/fashion_1923.jpg",
-                    "original_url": "assets/images/placeholder/product.png"
+                    "original_url": "assets/images/placeholder/image4.png"
                 },
                 "variation_galleries": [
                     {
@@ -8502,7 +8502,7 @@
                 "attribute_values": [
                     {
                         "id": 42,
-                        "value": "Blue",
+                        "value": "Buns",
                         "hex_color": "#0084ff",
                         "slug": "blue",
                         "attribute_id": "11",

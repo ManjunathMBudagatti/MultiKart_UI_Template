@@ -25,13 +25,18 @@
   }
 </div>
 
-@if((themeOption$ | async)?.popup?.news_letter?.is_enable){
-  <app-newsletter-modal #newsletterModal />
-} 
 
-@if(!themeOptionService.newsletterModal && exit && (themeOption$ | async)?.popup?.exit?.is_enable){
+<!-- NEWSLETTER POPUP TEMPORARILY DISABLED -->
+<!-- @if((themeOption$ | async)?.popup?.news_letter?.is_enable){
+  <app-newsletter-modal #newsletterModal />
+}  -->
+
+
+<!-- EXIT POPUP TEMPORARILY DISABLED -->
+
+<!-- @if(!themeOptionService.newsletterModal && exit && (themeOption$ | async)?.popup?.exit?.is_enable){
   <app-exit-modal it-modal #exitModal />
-} 
+}  -->
 
 @if(authService.isLogin){
   <app-login-modal #loginModal />

@@ -1,8 +1,8 @@
 import {
   CommonModule,
   NgClass
-} from "./chunk-XBVSCJA2.js";
-import "./chunk-636JCMZ5.js";
+} from "./chunk-R3UBKFO3.js";
+import "./chunk-HACFVF7Q.js";
 import {
   ChangeDetectorRef,
   Component,
@@ -32,11 +32,11 @@ import {
   ɵɵsanitizeUrl,
   ɵɵstyleProp,
   ɵɵviewQuery
-} from "./chunk-XISHL2FV.js";
-import "./chunk-B5HDFA7V.js";
-import "./chunk-ZEC66525.js";
-import "./chunk-DRVVFZON.js";
-import "./chunk-6KNO4II2.js";
+} from "./chunk-N27MOKGD.js";
+import "./chunk-VOLPMQ4J.js";
+import "./chunk-43X54QM6.js";
+import "./chunk-2ALB3RDC.js";
+import "./chunk-GGNALLFK.js";
 import "./chunk-WDMUDEB6.js";
 
 // node_modules/ngx-image-zoom/fesm2020/ngx-image-zoom.mjs
